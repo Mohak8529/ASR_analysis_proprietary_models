@@ -1,0 +1,261 @@
+[
+  {
+    "dialogue": "No, he didn't.",
+    "speaker": "spk1",
+    "startTime": 1.38,
+    "endTime": 2.14
+  },
+  {
+    "dialogue": "Good morning, Miss Joy. Good morning, Miss Joy. How are you?",
+    "speaker": "spk2",
+    "startTime": 1.38,
+    "endTime": 4.26
+  },
+  {
+    "dialogue": "No, not at all.",
+    "speaker": "spk1",
+    "startTime": 3.94,
+    "endTime": 4.46
+  },
+  {
+    "dialogue": "Good morning to you.",
+    "speaker": "spk2",
+    "startTime": 5.52,
+    "endTime": 6.46
+  },
+  {
+    "dialogue": "Ah, no. No, not at all.",
+    "speaker": "spk1",
+    "startTime": 5.86,
+    "endTime": 8.62
+  },
+  {
+    "dialogue": "Who are they?",
+    "speaker": "spk2",
+    "startTime": 7.98,
+    "endTime": 8.8
+  },
+  {
+    "dialogue": "For example, no.",
+    "speaker": "spk1",
+    "startTime": 8.78,
+    "endTime": 10.72
+  },
+  {
+    "dialogue": "Hello, I’m AJ, calling from CreditMaxPH on behalf of Maya Bank.",
+    "speaker": "spk2",
+    "startTime": 10.22,
+    "endTime": 21.64
+  },
+  {
+    "dialogue": "The patient.",
+    "speaker": "spk1",
+    "startTime": 22.1,
+    "endTime": 23.32
+  },
+  {
+    "dialogue": "Miss Rachel, where is Miss Joy, ma'am?",
+    "speaker": "spk2",
+    "startTime": 23.64,
+    "endTime": 30.74
+  },
+  {
+    "dialogue": "Ah, she’s in Qatar.",
+    "speaker": "spk1",
+    "startTime": 31.14,
+    "endTime": 33.04
+  },
+  {
+    "dialogue": "She left for Qatar?",
+    "speaker": "spk2",
+    "startTime": 33.74,
+    "endTime": 34.6
+  },
+  {
+    "dialogue": "Yes.",
+    "speaker": "spk1",
+    "startTime": 34.34,
+    "endTime": 34.52
+  },
+  {
+    "dialogue": "When was that, ma'am?",
+    "speaker": "spk2",
+    "startTime": 34.74,
+    "endTime": 36.92
+  },
+  {
+    "dialogue": "Last year.",
+    "speaker": "spk1",
+    "startTime": 37.7,
+    "endTime": 39.44
+  },
+  {
+    "dialogue": "When exactly?",
+    "speaker": "spk2",
+    "startTime": 38.78,
+    "endTime": 39.16
+  },
+  {
+    "dialogue": "Last year, she called because someone already called her. I told her, she said, pay-as-you-go. She said she was tired of paying.",
+    "speaker": "spk1",
+    "startTime": 39.76,
+    "endTime": 51.32
+  },
+  {
+    "dialogue": "Ma'am, we need to speak with her directly. If she calls you, please inform Miss Joy to authorize you as a representative so we can talk to you.",
+    "speaker": "spk2",
+    "startTime": 50.28,
+    "endTime": 73.9
+  },
+  {
+    "dialogue": "Ah, all right.",
+    "speaker": "spk1",
+    "startTime": 73.34,
+    "endTime": 75.24
+  },
+  {
+    "dialogue": "We can’t disclose anything to you, ma'am.",
+    "speaker": "spk2",
+    "startTime": 74.46,
+    "endTime": 83.22
+  },
+  {
+    "dialogue": "Yes, of course.",
+    "speaker": "spk1",
+    "startTime": 78.16,
+    "endTime": 79.6
+  },
+  {
+    "dialogue": "So ma'am, starting today—actually yesterday—we called already, right?",
+    "speaker": "spk2",
+    "startTime": 83.26,
+    "endTime": 92.22
+  },
+  {
+    "dialogue": "Yes, of course.",
+    "speaker": "spk1",
+    "startTime": 91.8,
+    "endTime": 93.32
+  },
+  {
+    "dialogue": "I’ll be kind enough to send you an email about this, ma’am. Please forward it to her.",
+    "speaker": "spk2",
+    "startTime": 93.1,
+    "endTime": 110.2
+  },
+  {
+    "dialogue": "Yes, of course.",
+    "speaker": "spk1",
+    "startTime": 110.64,
+    "endTime": 111.0
+  },
+  {
+    "dialogue": "This is Maya, ma’am. This is regarding collections.",
+    "speaker": "spk2",
+    "startTime": 111.82,
+    "endTime": 115.78
+  },
+  {
+    "dialogue": "Maya, this is a lesson.",
+    "speaker": "spk1",
+    "startTime": 118.54,
+    "endTime": 120.86
+  },
+  {
+    "dialogue": "Under CreditMaxPH.",
+    "speaker": "spk2",
+    "startTime": 122.52,
+    "endTime": 124.0
+  },
+  {
+    "dialogue": "Credit what? What is it?",
+    "speaker": "spk1",
+    "startTime": 125.54,
+    "endTime": 128.4
+  },
+  {
+    "dialogue": "CreditMaxPH.",
+    "speaker": "spk2",
+    "startTime": 128.96,
+    "endTime": 129.7
+  },
+  {
+    "dialogue": "Max is gone.",
+    "speaker": "spk1",
+    "startTime": 129.58,
+    "endTime": 130.26
+  },
+  {
+    "dialogue": "I’ll repeat it, ma'am.",
+    "speaker": "spk2",
+    "startTime": 130.98,
+    "endTime": 140.94
+  },
+  {
+    "dialogue": "Yes, please do.",
+    "speaker": "spk1",
+    "startTime": 140.24,
+    "endTime": 142.52
+  },
+  {
+    "dialogue": "Try it again.",
+    "speaker": "spk2",
+    "startTime": 143.24,
+    "endTime": 144.02
+  },
+  {
+    "dialogue": "Maya, this is a lesson.",
+    "speaker": "spk1",
+    "startTime": 143.6,
+    "endTime": 145.56
+  },
+  {
+    "dialogue": "Dot com. What are you doing?",
+    "speaker": "spk2",
+    "startTime": 144.66,
+    "endTime": 148.92
+  },
+  {
+    "dialogue": "At credit. CreditMax dot com.",
+    "speaker": "spk1",
+    "startTime": 149.68,
+    "endTime": 152.48
+  },
+  {
+    "dialogue": "Yes, ma'am. CreditMaxPH.com. That’s where you can authorize us to talk with you directly.",
+    "speaker": "spk2",
+    "startTime": 151.48,
+    "endTime": 173.64
+  },
+  {
+    "dialogue": "Ah, okay.",
+    "speaker": "spk1",
+    "startTime": 173.64,
+    "endTime": 173.68
+  },
+  {
+    "dialogue": "Is that fine with you?",
+    "speaker": "spk2",
+    "startTime": 173.68,
+    "endTime": 173.86
+  },
+  {
+    "dialogue": "Authorization isn't available.",
+    "speaker": "spk1",
+    "startTime": 173.7,
+    "endTime": 179.28
+  },
+  {
+    "dialogue": "Thank you very much, ma’am, and have a good morning.",
+    "speaker": "spk2",
+    "startTime": 174.52,
+    "endTime": 179.48
+  },
+  {
+    "dialogue": "Restored to hard difficulty.",
+    "speaker": "spk1",
+    "startTime": 179.28,
+    "endTime": 179.5
+  }
+]
+

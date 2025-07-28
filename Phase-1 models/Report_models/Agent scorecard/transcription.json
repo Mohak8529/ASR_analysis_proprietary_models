@@ -1,0 +1,80 @@
+[
+    {
+        "dialogue": "Good afternoon, this is Rachel calling from FinTrust Services. This call is recorded for quality and training purposes.",
+        "speaker": "spk1",
+        "startTime": 0.10,
+        "endTime": 5.20
+    },
+    {
+        "dialogue": "Hi, yes, this is Kevin.",
+        "speaker": "spk2",
+        "startTime": 5.50,
+        "endTime": 6.50
+    },
+    {
+        "dialogue": "May I have your full name and registered mobile number to verify your identity?",
+        "speaker": "spk1",
+        "startTime": 6.70,
+        "endTime": 9.00
+    },
+    {
+        "dialogue": "Sure, I'm Kevin Roy, and my number is 9988776655.",
+        "speaker": "spk2",
+        "startTime": 9.30,
+        "endTime": 11.00
+    },
+    {
+        "dialogue": "Thank you, Kevin. I see you have an overdue payment of ₹10,000 on your credit card ending with 7890, due on April 5th, including ₹9,500 principal and ₹500 in late fees.",
+        "speaker": "spk1",
+        "startTime": 11.50,
+        "endTime": 15.50
+    },
+    {
+        "dialogue": "Yeah, I know I’m behind. I’ve been having some financial issues, and I can’t pay the full amount right now.",
+        "speaker": "spk2",
+        "startTime": 16.00,
+        "endTime": 19.00
+    },
+    {
+        "dialogue": "I understand, Kevin. We can explore some options. Would you be able to make a partial payment to settle part of the debt?",
+        "speaker": "spk1",
+        "startTime": 19.50,
+        "endTime": 22.50
+    },
+    {
+        "dialogue": "I could probably manage ₹4,000 this month. Would that work to settle part of it?",
+        "speaker": "spk2",
+        "startTime": 23.00,
+        "endTime": 25.50
+    },
+    {
+        "dialogue": "Thank you for the offer. I can propose a partial settlement of ₹4,000, which would reduce your outstanding balance. The remaining ₹6,000 would need a payment plan. Does that sound acceptable?",
+        "speaker": "spk1",
+        "startTime": 26.00,
+        "endTime": 30.00
+    },
+    {
+        "dialogue": "Yeah, I can do ₹4,000 now and work on the rest later. Let’s go with that.",
+        "speaker": "spk2",
+        "startTime": 30.50,
+        "endTime": 32.50
+    },
+    {
+        "dialogue": "Great, I’ll note the partial settlement of ₹4,000. You can make the payment online, and we’ll follow up next month for the remaining balance. Anything else I can assist with?",
+        "speaker": "spk1",
+        "startTime": 33.00,
+        "endTime": 37.00
+    },
+    {
+        "dialogue": "No, that’s it. Thanks for working with me.",
+        "speaker": "spk2",
+        "startTime": 37.50,
+        "endTime": 39.00
+    },
+    {
+        "dialogue": "You’re welcome, Kevin. Thank you for your time. Have a great day. Goodbye.",
+        "speaker": "spk1",
+        "startTime": 39.50,
+        "endTime": 41.50
+    }
+]

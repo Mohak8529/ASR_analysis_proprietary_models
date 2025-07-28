@@ -1,0 +1,245 @@
+{
+  "Anger": {
+    "Value": 0.65,
+    "Parameters": {
+      "Loudness": 0.5,
+      "Pitch variation": 0.6,
+      "Speaking rate": 1.0,
+      "Spectral density": 0.5
+    }
+  },
+  "Frustration": {
+    "Value": 0.62,
+    "Parameters": {
+      "Speaking rate": 1.0,
+      "Articulation rate": 0.5,
+      "Syllable rate": 0.91,
+      "Emotional intensity": 0.08
+    }
+  },
+  "Confusion": {
+    "Value": 0.46,
+    "Parameters": {
+      "Semantic similarity": 0.39,
+      "Language identification": 0.5,
+      "Pronunciation accuracy": 0.5
+    }
+  },
+  "Stress": {
+    "Value": 0.73,
+    "Parameters": {
+      "Speaking rate": 1.0,
+      "Emotional valence": 0.68,
+      "Spectral flux": 0.5
+    }
+  },
+  "Anxiety": {
+    "Value": 0.5,
+    "Parameters": {
+      "Tremor": 0.5,
+      "Jitter": 0.5,
+      "Shimmer": 0.5,
+      "Spectral roll-off": 0.5
+    }
+  },
+  "Resignation": {
+    "Value": 0.73,
+    "Parameters": {
+      "Speaking rate": 1.0,
+      "Emotional valence": 0.68,
+      "Language identification": 0.5
+    }
+  },
+  "Hopefulness": {
+    "Value": 0.59,
+    "Parameters": {
+      "Pitch variation": 0.6,
+      "Emotional valence": 0.68,
+      "Articulation rate": 0.5
+    }
+  },
+  "Distrust": {
+    "Value": 0.43,
+    "Parameters": {
+      "Irony detection": 0.3,
+      "Pronunciation accuracy": 0.5,
+      "Spectral tilt": 0.5
+    }
+  },
+  "Regret": {
+    "Value": 0.76,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Pitch variation": 0.6,
+      "Speaking rate": 1.0
+    }
+  },
+  "Empathy": {
+    "Value": 0.52,
+    "Parameters": {
+      "Semantic similarity": 0.39,
+      "Emotional valence": 0.68,
+      "Language biases": 0.5
+    }
+  },
+  "Defensiveness": {
+    "Value": 0.53,
+    "Parameters": {
+      "Pitch variation": 0.6,
+      "Loudness": 0.5,
+      "Zero-cross rate": 0.5
+    }
+  },
+  "Negotiation": {
+    "Value": 0.7,
+    "Parameters": {
+      "Language identification": 0.5,
+      "Syllable rate": 0.91,
+      "Emotional valence": 0.68
+    }
+  },
+  "Impatience": {
+    "Value": 0.53,
+    "Parameters": {
+      "Speaking rate": 1.0,
+      "Articulation rate": 0.5,
+      "Emotional intensity": 0.08
+    }
+  },
+  "Contentment": {
+    "Value": 0.48,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Tone": 0.27,
+      "Pitch": 0.5
+    }
+  },
+  "Optimism": {
+    "Value": 0.55,
+    "Parameters": {
+      "Pitch variation": 0.6,
+      "Emotional valence": 0.68,
+      "Semantic similarity": 0.39
+    }
+  },
+  "Desperation": {
+    "Value": 0.53,
+    "Parameters": {
+      "Speaking rate": 1.0,
+      "Emotional intensity": 0.08,
+      "Tremor": 0.5
+    }
+  },
+  "Regret2": {
+    "Value": 0.56,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Pronunciation accuracy": 0.5,
+      "Spectral centroid": 0.5
+    }
+  },
+  "Indifference": {
+    "Value": 0.59,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Pitch variation": 0.6,
+      "Spectral flatness": 0.5
+    }
+  },
+  "Pessimism": {
+    "Value": 0.59,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Pitch variation": 0.6,
+      "Formant frequencies": 0.5
+    }
+  },
+  "Curiosity": {
+    "Value": 0.46,
+    "Parameters": {
+      "Semantic similarity": 0.39,
+      "Language identification": 0.5,
+      "Spectral flux": 0.5
+    }
+  },
+  "Satisfaction": {
+    "Value": 0.48,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Tone": 0.27,
+      "Pronunciation accuracy": 0.5
+    }
+  },
+  "Disappointment": {
+    "Value": 0.52,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Pitch variation": 0.6,
+      "Irony detection": 0.3
+    }
+  },
+  "Shame": {
+    "Value": 0.7,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Syllable rate": 0.91,
+      "Spectral kurtosis": 0.5
+    }
+  },
+  "Reassurance": {
+    "Value": 0.48,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Tone": 0.27,
+      "Articulation rate": 0.5
+    }
+  },
+  "Relief": {
+    "Value": 0.59,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Pitch variation": 0.6,
+      "Resonance": 0.5
+    }
+  },
+  "Hopelessness": {
+    "Value": 0.73,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Speaking rate": 1.0,
+      "Spectral skewness": 0.5
+    }
+  },
+  "Gratitude": {
+    "Value": 0.48,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Tone": 0.27,
+      "Pronunciation accuracy": 0.5
+    }
+  },
+  "Hostility": {
+    "Value": 0.53,
+    "Parameters": {
+      "Loudness": 0.5,
+      "Pitch variation": 0.6,
+      "Zero-cross rate": 0.5
+    }
+  },
+  "Acceptance": {
+    "Value": 0.59,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Pitch variation": 0.6,
+      "Formant frequencies": 0.5
+    }
+  },
+  "Apathy": {
+    "Value": 0.56,
+    "Parameters": {
+      "Emotional valence": 0.68,
+      "Spectral tilt": 0.5,
+      "Zero-cross rate": 0.5
+    }
+  }
+}

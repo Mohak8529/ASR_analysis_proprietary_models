@@ -1,0 +1,7 @@
+{
+  "priority": "LOW",
+  "keywords": ["indifference", "general"],
+  "prompt_template": "Support customer with standard banking inquiry due to neutral tone.",
+  "thresholds": {},
+  "description": "Default for neutral banking queries."
+}

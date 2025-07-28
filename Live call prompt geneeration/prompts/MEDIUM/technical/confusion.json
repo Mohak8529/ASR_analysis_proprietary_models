@@ -1,0 +1,7 @@
+{
+  "priority": "MEDIUM",
+  "keywords": ["confusion", "technical problems", "entropy low"],
+  "prompt_template": "Assist with technical issue by guiding through troubleshooting due to detected confusion.",
+  "thresholds": {"emotion_score": 0.6, "entropy": 0.3},
+  "description": "For confused technical issues."
+}

@@ -1,0 +1,7 @@
+{
+  "priority": "HIGH",
+  "keywords": ["frustration", "balance dispute", "speaking_rate high"],
+  "prompt_template": "Resolve balance dispute by reviewing account details due to high frustration and fast speaking rate.",
+  "thresholds": {"emotion_score": 0.7, "speaking_rate": 0.7},
+  "description": "For frustrated balance disputes."
+}

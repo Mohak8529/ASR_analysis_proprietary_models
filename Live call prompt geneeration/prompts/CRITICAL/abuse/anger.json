@@ -1,0 +1,7 @@
+{
+  "priority": "CRITICAL",
+  "keywords": ["anger", "abuse risk", "loudness high"],
+  "prompt_template": "Forward to manager immediately due to abusive behavior detected in a loud and angry banking call.",
+  "thresholds": {"emotion_score": 0.8, "loudness": 0.7},
+  "description": "For angry abusive banking calls."
+}

@@ -1,0 +1,19 @@
+{
+  "priority": "CRITICAL",
+  "situation": "lost card",
+  "emotion": "anxiety",
+  "keywords": [
+    "lost card",
+    "card lost",
+    "misplaced card",
+    "card missing",
+    "emotional_intensity high"
+  ],
+  "prompt_template": "Escalate lost card report immediately and initiate card replacement process.",
+  "conditions": {
+    "emotion": ["anxiety"],
+    "audio_metrics": {
+      "emotional_intensity": ">0.7"
+    }
+  }
+}

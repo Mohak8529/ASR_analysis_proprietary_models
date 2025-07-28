@@ -1,0 +1,7 @@
+{
+  "priority": "HIGH",
+  "keywords": ["frustration", "payment issues", "energy high"],
+  "prompt_template": "Address payment dispute promptly and transfer to billing if unresolved due to high frustration.",
+  "thresholds": {"emotion_score": 0.7, "energy": 0.7},
+  "description": "For frustrated payment issues."
+}

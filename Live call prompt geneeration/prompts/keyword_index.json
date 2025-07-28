@@ -1,0 +1,77 @@
+{
+  "anger": [
+    "CRITICAL/abuse/anger.json"
+  ],
+  "abuse risk": [
+    "CRITICAL/abuse/anger.json"
+  ],
+  "loudness high": [
+    "CRITICAL/abuse/anger.json"
+  ],
+  "lost card": [
+    "CRITICAL/lost_card/anxiety.json"
+  ],
+  "card lost": [
+    "CRITICAL/lost_card/anxiety.json"
+  ],
+  "misplaced card": [
+    "CRITICAL/lost_card/anxiety.json"
+  ],
+  "card missing": [
+    "CRITICAL/lost_card/anxiety.json"
+  ],
+  "emotional_intensity high": [
+    "CRITICAL/lost_card/anxiety.json",
+    "CRITICAL/fraud/anxiety.json"
+  ],
+  "anxiety": [
+    "CRITICAL/fraud/anxiety.json"
+  ],
+  "fraud report": [
+    "CRITICAL/fraud/anxiety.json"
+  ],
+  "frustration": [
+    "HIGH/balance/frustration.json",
+    "HIGH/payment/frustration.json"
+  ],
+  "balance dispute": [
+    "HIGH/balance/frustration.json"
+  ],
+  "speaking_rate high": [
+    "HIGH/balance/frustration.json",
+    "HIGH/wrong_transfer/frustration.json"
+  ],
+  "payment issues": [
+    "HIGH/payment/frustration.json"
+  ],
+  "energy high": [
+    "HIGH/payment/frustration.json"
+  ],
+  "wrong number": [
+    "HIGH/wrong_transfer/frustration.json"
+  ],
+  "wrong recipient": [
+    "HIGH/wrong_transfer/frustration.json"
+  ],
+  "wrong account": [
+    "HIGH/wrong_transfer/frustration.json"
+  ],
+  "sent to wrong": [
+    "HIGH/wrong_transfer/frustration.json"
+  ],
+  "confusion": [
+    "MEDIUM/technical/confusion.json"
+  ],
+  "technical problems": [
+    "MEDIUM/technical/confusion.json"
+  ],
+  "entropy low": [
+    "MEDIUM/technical/confusion.json"
+  ],
+  "indifference": [
+    "LOW/general/default.json"
+  ],
+  "general": [
+    "LOW/general/default.json"
+  ]
+}

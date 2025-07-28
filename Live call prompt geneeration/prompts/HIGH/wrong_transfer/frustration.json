@@ -1,0 +1,19 @@
+{
+  "priority": "HIGH",
+  "situation": "money sent to wrong number",
+  "emotion": "frustration",
+  "keywords": [
+    "wrong number",
+    "wrong recipient",
+    "wrong account",
+    "sent to wrong",
+    "speaking_rate high"
+  ],
+  "prompt_template": "Address erroneous transfer promptly and initiate recovery process.",
+  "conditions": {
+    "emotion": ["frustration"],
+    "audio_metrics": {
+      "speaking_rate": ">0.7"
+    }
+  }
+}

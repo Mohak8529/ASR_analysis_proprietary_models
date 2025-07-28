@@ -1,0 +1,7 @@
+{
+  "priority": "CRITICAL",
+  "keywords": ["anxiety", "fraud report", "emotional_intensity high"],
+  "prompt_template": "Escalate fraud report immediately and verify account details due to high anxiety detected.",
+  "thresholds": {"emotion_score": 0.7, "emotional_intensity": 0.7},
+  "description": "For anxious fraud reports in banking."
+}

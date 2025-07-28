@@ -1,0 +1,13 @@
+torch==2.4.1
+torchaudio==2.4.1
+transformers==4.44.2
+librosa==0.10.2.post1
+numpy==1.26.4
+scipy==1.13.1
+nltk==3.9.1
+textstat==0.7.7
+langid==1.1.6
+textblob==0.17.1
+vaderSentiment==3.3.2
+soundfile==0.12.1
+statsmodels==0.14.1

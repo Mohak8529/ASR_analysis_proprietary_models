@@ -1,0 +1,187 @@
+{
+  "audio_file": "Relay the message John Melvin Dela Frez Rosalinda Trecene 645025080468 030525.wav",
+  "transcription": [
+    {
+      "text": "Hello? Hello?",
+      "start": 0.0,
+      "end": 4.52,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Hello po, pwede po kay Mr. Mark. By the way, Ma'am Elvin de la Presse from Credit Max over the recorded line and I'm calling on behalf of Maya Bank.",
+      "start": 5.34,
+      "end": 18.04,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Sino po sila?",
+      "start": 10.08,
+      "end": 11.64,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ma'am, makikisuy lang po sana kami sa inyo regarding kay Mr. Mark, yung regarding sa kanyang Maya Bank po na maasikas niya na po ngayong araw yung kanyang Maya Bank. Pasabi na lang po sana sa kanya, Ma'am.",
+      "start": 18.82,
+      "end": 28.26,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Yung Maya Bank niya?",
+      "start": 30.44,
+      "end": 31.84,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yes, po. Yes, po. Yung Maya Bank na, Ma'am, pa-inform na lang po siya, Ma'am, na pakiasikaso na po yung kanyang Maya Bank po.",
+      "start": 32.66,
+      "end": 39.82,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Hello?",
+      "start": 33.08,
+      "end": 33.42,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Then, pakisagot po yung mga tawag po namin sa kanya dahil tinatawagan po namin siya. Hindi niya po nasasagot po yung mga tawag namin maghapon. Pasabi na lang po sa kanya, Ma'am.",
+      "start": 39.88,
+      "end": 49.36,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Sir, excuse me po. Kasi po, wala na po siya dito sa Pilipinas. Nasa South na po siya. Bumalik na po siya ulit doon.",
+      "start": 49.22,
+      "end": 55.96,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Okay. Pa-inform na lang po sa kanya, Ma'am.",
+      "start": 57.62,
+      "end": 59.98,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Kaya, bakit yung tinatawag niya yung number niya, eh, not available kasi nasa abroad na po siya.",
+      "start": 59.18,
+      "end": 65.7,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Okay. Okay. Kaya naman pala. So, Ma'am, paano na lang po, Ma'am, pa-inform na lang po siya, Ma'am, yung regarding po sa kanyang Maya Bank po dito po sa...",
+      "start": 66.94,
+      "end": 75.0,
+      "speaker": "spk2"
+    },
+    {
+      "text": "O, sige po. Okay.",
+      "start": 75.16,
+      "end": 76.7,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Inform na lang po, Ma'am, na pakiasikaso niya na po. Okay, po.",
+      "start": 76.6,
+      "end": 79.9,
+      "speaker": "spk2"
+    },
+    {
+      "text": "O, sige sabihin ko. Nasa work pa kasi yun eh. Tsaka busy din yun kasi ano oras na ba doon? Five hours kasi ang ano doon eh. Basta pa sige sabihin ko po.",
+      "start": 81.38,
+      "end": 92.78,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Sige, po. Marami pong salamat po, Ma'am, and have a nice day po. Thank you, po.",
+      "start": 93.16,
+      "end": 96.06,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Basta pa sige sabihin ko po. Okay, thank you po.",
+      "start": 95.26,
+      "end": 97.92,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Thank you.",
+      "start": 98.92,
+      "end": 99.4,
+      "speaker": "spk2"
+    }
+  ],
+  "translation": [
+    {
+      "tagalog": "Hello? Hello?",
+      "english": "Hello? How are you?"
+    },
+    {
+      "tagalog": "Hello po, pwede po kay Mr. Mark. By the way, Ma'am Elvin de la Presse from Credit Max over the recorded line and I'm calling on behalf of Maya Bank.",
+      "english": "Hi, I'm Mark, I'm from the United States, and I'm calling from the United States Embassy in Mexico City."
+    },
+    {
+      "tagalog": "Sino po sila?",
+      "english": "Who are they?"
+    },
+    {
+      "tagalog": "Ma'am, makikisuy lang po sana kami sa inyo regarding kay Mr. Mark, yung regarding sa kanyang Maya Bank po na maasikas niya na po ngayong araw yung kanyang Maya Bank. Pasabi na lang po sana sa kanya, Ma'am.",
+      "english": "I'm sorry, but I'm not going to be able to help you with your Maya-Bonus, so I'm going to ask you to help me with your Maya-Bonus."
+    },
+    {
+      "tagalog": "Yung Maya Bank niya?",
+      "english": "Is that his Maya Bank?"
+    },
+    {
+      "tagalog": "Yes, po. Yes, po. Yung Maya Bank na, Ma'am, pa-inform na lang po siya, Ma'am, na pakiasikaso na po yung kanyang Maya Bank po.",
+      "english": "Yes, yes, yes, that's the Maya Bank, ma'am, just inform him, ma'am, that he's taking care of his Maya Bank."
+    },
+    {
+      "tagalog": "Hello?",
+      "english": "How are you?"
+    },
+    {
+      "tagalog": "Then, pakisagot po yung mga tawag po namin sa kanya dahil tinatawagan po namin siya. Hindi niya po nasasagot po yung mga tawag namin maghapon. Pasabi na lang po sa kanya, Ma'am.",
+      "english": "We'll call him back, but he won't answer our calls all day long, so we'll just say, Ma'am."
+    },
+    {
+      "tagalog": "Sir, excuse me po. Kasi po, wala na po siya dito sa Pilipinas. Nasa South na po siya. Bumalik na po siya ulit doon.",
+      "english": "I'm sorry, but I'm not sure if you're in the Philippines or South Korea, but I'm sure you're in the Philippines."
+    },
+    {
+      "tagalog": "Okay. Pa-inform na lang po sa kanya, Ma'am.",
+      "english": "Okay, just let him know, ma'am."
+    },
+    {
+      "tagalog": "Kaya, bakit yung tinatawag niya yung number niya, eh, not available kasi nasa abroad na po siya.",
+      "english": "So, why did he call that number, uh, not available because he's abroad."
+    },
+    {
+      "tagalog": "Okay. Okay. Kaya naman pala. So, Ma'am, paano na lang po, Ma'am, pa-inform na lang po siya, Ma'am, yung regarding po sa kanyang Maya Bank po dito po sa...",
+      "english": "Okay. Okay. So, Ma'am, how about, Ma'am, just inform him, Ma'am, that regarding his Maya Bank is here in..."
+    },
+    {
+      "tagalog": "O, sige po. Okay.",
+      "english": "Oh, all right, all right."
+    },
+    {
+      "tagalog": "Inform na lang po, Ma'am, na pakiasikaso niya na po. Okay, po.",
+      "english": "Just inform him, ma'am, that he's taking care of it."
+    },
+    {
+      "tagalog": "O, sige sabihin ko. Nasa work pa kasi yun eh. Tsaka busy din yun kasi ano oras na ba doon? Five hours kasi ang ano doon eh. Basta pa sige sabihin ko po.",
+      "english": "Oh, okay, I'll tell you what. It's still work. It's busy too. What time is it?"
+    },
+    {
+      "tagalog": "Sige, po. Marami pong salamat po, Ma'am, and have a nice day po. Thank you, po.",
+      "english": "Thank you very much, Ma'am, and have a nice day."
+    },
+    {
+      "tagalog": "Basta pa sige sabihin ko po. Okay, thank you po.",
+      "english": "I'll just say it."
+    },
+    {
+      "tagalog": "Thank you.",
+      "english": "Thank you. Thank you."
+    }
+  ]
+}

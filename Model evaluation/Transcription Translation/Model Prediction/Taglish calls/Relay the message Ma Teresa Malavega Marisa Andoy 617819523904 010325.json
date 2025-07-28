@@ -1,0 +1,157 @@
+{
+  "audio_file": "Relay the message Ma Teresa Malavega Marisa Andoy 617819523904 010325.wav",
+  "transcription": [
+    {
+      "text": "Ano?",
+      "start": 1.36,
+      "end": 2.24,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Magandang hapon, pwede po ba kayo Mr. Arjan na simpo?",
+      "start": 2.92,
+      "end": 5.98,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Ano naman siya dito? Kaya akin sarupon siya eh.",
+      "start": 7.16,
+      "end": 11.36,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Okay, kayo po kasi naka-declare dito as emergency contact. Bali, hindi na po kayo connected sa kanya, ma'am?",
+      "start": 11.44,
+      "end": 17.64,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Pa?",
+      "start": 19.28,
+      "end": 20.16,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Hindi na po kayo connected sa kanya?",
+      "start": 20.44,
+      "end": 21.86,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Hindi po. Kinala ko lang siya.",
+      "start": 22.98,
+      "end": 25.92,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Wala po ba kayong number na pwedeng tawagan si Mr. Arjan?",
+      "start": 25.96,
+      "end": 29.5,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Ma'am, nawala kasi yung sarupon niya.",
+      "start": 31.08,
+      "end": 33.62,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Hindi na po kayo connected sa kanya, ma'am?",
+      "start": 34.08,
+      "end": 36.18,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Kasi, nang nakaraan, may tumawag sa akin. Noong December. Ano, minissage ko siya. Eh, hindi niya nanasisin. Nalaman ko, wala na yung sa ipin niya na wala daw. Kinuha.",
+      "start": 36.3,
+      "end": 53.92,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Hindi na po kayo connected sa kanya, ma'am?",
+      "start": 60.94,
+      "end": 84.36,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Opo. Opo. Wala pa ako. Ano sa kayo, magpuntas na eh. Tagal na kasi yun. Magbawa. Ano ba kasi yan?",
+      "start": 64.4,
+      "end": 88.06,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Okay, ma'am? Okay, sige. Maraming salamat, ma'am Marisa. Have a great day, ma'am. Thank you.",
+      "start": 95.48,
+      "end": 100.14,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Kaya gilip po. Kaya gilip po. Ano ba? Ano ba? Ano ba? Ano ba? Ano ba?",
+      "start": 95.5,
+      "end": 103.14,
+      "speaker": "spk1"
+    }
+  ],
+  "translation": [
+    {
+      "tagalog": "Ano?",
+      "english": "What?"
+    },
+    {
+      "tagalog": "Magandang hapon, pwede po ba kayo Mr. Arjan na simpo?",
+      "english": "Good afternoon, Mr. Archer."
+    },
+    {
+      "tagalog": "Ano naman siya dito? Kaya akin sarupon siya eh.",
+      "english": "What's he here for?"
+    },
+    {
+      "tagalog": "Okay, kayo po kasi naka-declare dito as emergency contact. Bali, hindi na po kayo connected sa kanya, ma'am?",
+      "english": "I'm sure you've already made contact with the emergency services, but you're not going to be able to contact them, are you?"
+    },
+    {
+      "tagalog": "Pa?",
+      "english": "Is that so?"
+    },
+    {
+      "tagalog": "Hindi na po kayo connected sa kanya?",
+      "english": "Aren't you connected to him anymore?"
+    },
+    {
+      "tagalog": "Hindi po. Kinala ko lang siya.",
+      "english": "No, I just remembered him."
+    },
+    {
+      "tagalog": "Wala po ba kayong number na pwedeng tawagan si Mr. Arjan?",
+      "english": "Don't you have a number to call Mr. Arjan?"
+    },
+    {
+      "tagalog": "Ma'am, nawala kasi yung sarupon niya.",
+      "english": "\"Mom, I think I lost my scarf.\""
+    },
+    {
+      "tagalog": "Hindi na po kayo connected sa kanya, ma'am?",
+      "english": "You're not connected to him anymore, ma'am?"
+    },
+    {
+      "tagalog": "Kasi, nang nakaraan, may tumawag sa akin. Noong December. Ano, minissage ko siya. Eh, hindi niya nanasisin. Nalaman ko, wala na yung sa ipin niya na wala daw. Kinuha.",
+      "english": "I've been told that in the past, I've been called in December. What, I've been calling him. Uh, he didn't feel it. I know, there's nothing in his file that he didn't like."
+    },
+    {
+      "tagalog": "Hindi na po kayo connected sa kanya, ma'am?",
+      "english": "You're not connected to him anymore, ma'am?"
+    },
+    {
+      "tagalog": "Opo. Opo. Wala pa ako. Ano sa kayo, magpuntas na eh. Tagal na kasi yun. Magbawa. Ano ba kasi yan?",
+      "english": "I'm not sure, I'm not sure, I'm not sure, I'm not sure, I'm not sure, I'm not sure, I'm not sure."
+    },
+    {
+      "tagalog": "Okay, ma'am? Okay, sige. Maraming salamat, ma'am Marisa. Have a great day, ma'am. Thank you.",
+      "english": "Thank you very much, Marissa, have a great day."
+    },
+    {
+      "tagalog": "Kaya gilip po. Kaya gilip po. Ano ba? Ano ba? Ano ba? Ano ba? Ano ba?",
+      "english": "So it's a slippery slope. So it's a slippery slope. What is it? What is it? What is it?"
+    }
+  ]
+}

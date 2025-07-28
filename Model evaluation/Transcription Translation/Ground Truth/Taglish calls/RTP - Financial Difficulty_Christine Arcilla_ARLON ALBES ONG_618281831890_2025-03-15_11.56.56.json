@@ -1,0 +1,157 @@
+{
+  "audio_file": "RTP - Financial Difficulty_Christine Arcilla_ARLON ALBES ONG_618281831890_2025-03-15_11.56.56.wav",
+  "transcription": [
+    {
+      "text": "Hello po, good morning. Arlon Alves Ong. Hello sir. Magandang umaga sir, this is Christine from EMC Collections. On behalf of Maya Bank, over the recorded line, for account security lamang Arlon, yung last for mobile number on your Maya credit, 4748. Okay, confirm po. Okay, confirm. So upon checking on your account, you are past yun ng 3 days, amounting na lamang po, 3,231.75 centavos. Naka-proc settle na po ng payment sir?",
+      "start": 5.3,
+      "end": 40.04,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Opo, opo.",
+      "start": 40.48,
+      "end": 42.0,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Kailan po?",
+      "start": 42.22,
+      "end": 43.2,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Sa ganina? Ay, kagabi.",
+      "start": 45.6,
+      "end": 47.08,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Nagabi sir.",
+      "start": 48.22,
+      "end": 49.18,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Opo.",
+      "start": 49.76,
+      "end": 50.8,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Apo, magkano po yung sinettle yung payment sir?",
+      "start": 51.54,
+      "end": 53.54,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Opo. 3, 2, 4.",
+      "start": 54.08,
+      "end": 59.88,
+      "speaker": "spk1"
+    },
+    {
+      "text": "3,24.",
+      "start": 61.44,
+      "end": 62.28,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Something.",
+      "start": 61.54,
+      "end": 62.14,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Sa inyong IAPS po kayo nagbayad?",
+      "start": 62.9,
+      "end": 65.36,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Opo, opo.",
+      "start": 65.06,
+      "end": 66.8,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Okay po. So sige sir, salamat po sa pagtanggap sa tawag at sa pagbabayad po.",
+      "start": 67.28,
+      "end": 71.72,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Thank you.",
+      "start": 70.74,
+      "end": 72.38,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Thank you and have a nice day po. Thank you.",
+      "start": 71.8,
+      "end": 82.92,
+      "speaker": "spk2"
+    }
+  ],
+  "translation": [
+    {
+      "tagalog": "Hello po, good morning. Arlon Alves Ong. Hello sir. Magandang umaga sir, this is Christine from EMC Collections. On behalf of Maya Bank, over the recorded line, for account security lamang Arlon, yung last for mobile number on your Maya credit, 4748. Okay, confirm po. Okay, confirm. So upon checking on your account, you are past yun ng 3 days, amounting na lamang po, 3,231.75 centavos. Naka-proc settle na po ng payment sir?",
+      "english": "Hello, good morning. Arlon Alves Ong. Hello sir. Good morning sir, this is Christine from EMC Collections. On behalf of Maya Bank, over the recorded line, for account security only Arlon, the last four digits of the mobile number on your Maya credit are 4748. Okay, confirmed. So upon checking your account, you are past due by 3 days, amounting only to 3,231.75 pesos. Have you already settled the payment sir?"
+    },
+    {
+      "tagalog": "Opo, opo.",
+      "english": "Yes, yes."
+    },
+    {
+      "tagalog": "Kailan po?",
+      "english": "When?"
+    },
+    {
+      "tagalog": "Sa ganina? Ay, kagabi.",
+      "english": "Earlier? Oh, last night."
+    },
+    {
+      "tagalog": "Nagabi sir.",
+      "english": "Last night, sir."
+    },
+    {
+      "tagalog": "Opo.",
+      "english": "Yes."
+    },
+    {
+      "tagalog": "Apo, magkano po yung sinettle yung payment sir?",
+      "english": "Okay, how much did you settle, sir?"
+    },
+    {
+      "tagalog": "Opo. 3, 2, 4.",
+      "english": "Yes. 3, 2, 4."
+    },
+    {
+      "tagalog": "3,24.",
+      "english": "3,24."
+    },
+    {
+      "tagalog": "Something.",
+      "english": "Something."
+    },
+    {
+      "tagalog": "Sa inyong IAPS po kayo nagbayad?",
+      "english": "Did you pay through your IAPS?"
+    },
+    {
+      "tagalog": "Opo, opo.",
+      "english": "Yes, yes."
+    },
+    {
+      "tagalog": "Okay po. So sige sir, salamat po sa pagtanggap sa tawag at sa pagbabayad po.",
+      "english": "Okay. Alright sir, thank you for accepting the call and for your payment."
+    },
+    {
+      "tagalog": "Thank you.",
+      "english": "Thank you."
+    },
+    {
+      "tagalog": "Thank you and have a nice day po. Thank you.",
+      "english": "Thank you and have a nice day. Thank you."
+    }
+  ]
+}

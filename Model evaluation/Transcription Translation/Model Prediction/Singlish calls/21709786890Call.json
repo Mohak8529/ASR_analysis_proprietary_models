@@ -1,0 +1,168 @@
+{
+  "audio_file": "21709786890Call.wav",
+  "call_duration": "146s",
+  "transcription": [
+    {
+      "text": "Hi, Gregory from DDS. What can I do for you today?",
+      "start": 0.0,
+      "end": 3.14,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah, hi Gregory. Ping Hui here. Yesterday I called to find out the contract reference for the trade, the Buy Yen Sell SGD. Remember that trade?",
+      "start": 5.02,
+      "end": 14.26,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Hi Ping Hui. Buy Yen Sell SGD. Maybe give me your account number then I can check for you quickly now?",
+      "start": 15.88,
+      "end": 22.2,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah yes, yes. Thank you. I really need to know. I write down somewhere yesterday then don't know where I put. Now I cannot find lane, then my boss also want to know.",
+      "start": 23.74,
+      "end": 31.58,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Yeah, I can check for you don't worry. What's your account number?",
+      "start": 33.0,
+      "end": 36.46,
+      "speaker": "spk1"
+    },
+    {
+      "text": "My account number is... 946.",
+      "start": 38.46,
+      "end": 67.02,
+      "speaker": "spk2"
+    },
+    {
+      "text": "946. Okay, I repeat. The account number is... 946. Correct?",
+      "start": 68.18,
+      "end": 82.34,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah, correct.",
+      "start": 83.88,
+      "end": 84.8,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay, I check for you now the contract reference number. Buy Yen Sell SGD. Buy Yen Sell SGD yesterday.",
+      "start": 85.98,
+      "end": 99.1,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah, good, good. Can give me the number.",
+      "start": 100.92,
+      "end": 102.32,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay. CF6621.",
+      "start": 103.54,
+      "end": 107.84,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah.",
+      "start": 108.4,
+      "end": 109.6,
+      "speaker": "spk2"
+    },
+    {
+      "text": "2679. Dash 39.",
+      "start": 111.14,
+      "end": 117.28,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Dash 39. Okay, so CF66212679-39, right? Yes, correct. Ah, thanks, thanks ah Gregory. If not later I can ask my boss say why never record properly all that. Thank you ah.",
+      "start": 117.78,
+      "end": 135.6,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Can, no problem Ping Hui. You say properly this time ah?",
+      "start": 136.3,
+      "end": 139.18,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yes, for sure one. Thanks ah, bye.",
+      "start": 140.4,
+      "end": 143.06,
+      "speaker": "spk2"
+    }
+  ],
+  "translation": [
+    {
+      "sinlgish": "Hi, Gregory from DDS. What can I do for you today?",
+      "english": "Hi, Gregory from DDS. What can I do for you today?"
+    },
+    {
+      "sinlgish": "Yeah, hi Gregory. Ping Hui here. Yesterday I called to find out the contract reference for the trade, the Buy Yen Sell SGD. Remember that trade?",
+      "english": "Yeah, hi Gregory. Ping Hui here. Yesterday I called to find out the contract reference for the trade, the Buy Yen Sell SGD. Remember that trade?"
+    },
+    {
+      "sinlgish": "Hi Ping Hui. Buy Yen Sell SGD. Maybe give me your account number then I can check for you quickly now?",
+      "english": "Hi Ping Hui. Buy Yen Sell SGD. Maybe give me your account number then I can check for you quickly now?"
+    },
+    {
+      "sinlgish": "Ah yes, yes. Thank you. I really need to know. I write down somewhere yesterday then don't know where I put. Now I cannot find lane, then my boss also want to know.",
+      "english": "Ah yes, yes. Thank you. I really need to know. I write down somewhere yesterday then don't know where I put. Now I cannot find lane, then my boss also want to know."
+    },
+    {
+      "sinlgish": "Yeah, I can check for you don't worry. What's your account number?",
+      "english": "Yeah, I can check for you don't worry. What's your account number?"
+    },
+    {
+      "sinlgish": "My account number is... 946.",
+      "english": "My account number is... 946."
+    },
+    {
+      "sinlgish": "946. Okay, I repeat. The account number is... 946. Correct?",
+      "english": "946. Okay, I repeat. The account number is... 946. Correct?"
+    },
+    {
+      "sinlgish": "Yeah, correct.",
+      "english": "Yeah, correct."
+    },
+    {
+      "sinlgish": "Okay, I check for you now the contract reference number. Buy Yen Sell SGD. Buy Yen Sell SGD yesterday.",
+      "english": "Okay, I check for you now the contract reference number. Buy Yen Sell SGD. Buy Yen Sell SGD yesterday."
+    },
+    {
+      "sinlgish": "Ah, good, good. Can give me the number.",
+      "english": "Ah, good, good. Can give me the number."
+    },
+    {
+      "sinlgish": "Okay. CF6621.",
+      "english": "Okay. CF6621."
+    },
+    {
+      "sinlgish": "Yeah.",
+      "english": "Yeah."
+    },
+    {
+      "sinlgish": "2679. Dash 39.",
+      "english": "2679. Dash 39."
+    },
+    {
+      "sinlgish": "Dash 39. Okay, so CF66212679-39, right? Yes, correct. Ah, thanks, thanks ah Gregory. If not later I can ask my boss say why never record properly all that. Thank you ah.",
+      "english": "Dash 39. Okay, so CF66212679-39, right? Yes, correct. Ah, thanks, thanks ah Gregory. If not later I can ask my boss say why never record properly all that. Thank you ah."
+    },
+    {
+      "sinlgish": "Can, no problem Ping Hui. You say properly this time ah?",
+      "english": "Can, no problem Ping Hui. You say properly this time ah?"
+    },
+    {
+      "sinlgish": "Yes, for sure one. Thanks ah, bye.",
+      "english": "Yes, for sure one. Thanks ah, bye."
+    }
+  ]
+}

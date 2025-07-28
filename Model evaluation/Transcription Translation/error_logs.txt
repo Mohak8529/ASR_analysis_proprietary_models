@@ -1,0 +1,132 @@
+Processing 5 ground truth JSON files
+
+Attempting to process 11709786425Call.json
+Ground Truth Speakers (raw): [('spk1', 0.0, 4.06), ('spk2', 6.1, 17.04), ('spk1', 12.1, 16.04), ('spk2', 16.04, 17.04), ('spk1', 18.86, 21.62), ('spk2', 22.68, 27.48), ('spk1', 28.54, 38.58), ('spk2', 41.6, 56.26), ('spk1', 57.48, 61.24), ('spk2', 62.3, 64.72), ('spk1', 77.64, 87.46), ('spk2', 88.82, 93.7), ('spk1', 95.16, 97.74), ('spk1', 97.74, 113.98), ('spk2', 115.74, 121.98), ('spk1', 123.14, 124.2), ('spk2', 125.46, 128.74), ('spk1', 129.82, 134.78), ('spk2', 136.28, 137.76)]
+Predicted Speakers (raw): [('spk1', 0.0, 4.06), ('spk2', 6.1, 17.04), ('spk1', 18.86, 21.62), ('spk2', 22.68, 27.48), ('spk1', 28.54, 38.58), ('spk2', 41.6, 56.26), ('spk1', 57.48, 61.24), ('spk2', 62.3, 64.72), ('spk1', 77.64, 87.46), ('spk2', 88.82, 93.7), ('spk1', 95.16, 97.74), ('spk2', 97.74, 121.98), ('spk1', 123.14, 124.2), ('spk2', 125.46, 128.74), ('spk1', 129.82, 134.78), ('spk2', 136.28, 137.76)]
+SMR: GT 'spk1' (12.1–16.04) vs Pred 'spk2' (6.1–17.04), Overlap 3.9399999999999995s
+SMR: GT 'spk1' (97.74–113.98) vs Pred 'spk2' (97.74–121.98), Overlap 16.24000000000001s
+DER=15.56%, MSR=0.00%, FAR=1.25%, SMR=14.31%, Duration=141.0s
+Translation count mismatch in Ground Truth/Singlish calls/11709786425Call.json: GT 19, Pred 16
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 0: GT 'good afternoon, ms. soh. sally from dbs here. what can i do for you today?' vs Pred 'good afternoon, ms. soh. sally from gbs here. what can i do for you today?'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 1: GT 'hey, hi, sally. i want to buy yuan. what is the rate today? ' vs Pred 'hey, hi, sally. i want to buy yuan. what is the rate today? yuan, is it? wait, i check for you now. yeah, okay.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 2: GT 'yuan, is it? wait, i check for you now.' vs Pred 'for yuan, the rate is 0.0.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 3: GT 'yeah, okay.' vs Pred 'for yuan, right? not yen. i want to buy the chinese yuan.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 4: GT 'for yuan, the rate is 0.0.' vs Pred 'oh, sorry. chinese yuan, i check. one second. for chinese yuan, the rate is 4.9865.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 5: GT 'for yuan, right? not yen. i want to buy the chinese yuan.' vs Pred '4.9865. okay. can you buy for me, i think, okay. okay, buy for me 6,000 yuan.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 6: GT 'oh, sorry. chinese yuan, i check. one second. for chinese yuan, the rate is 4.9865.' vs Pred 'so, 6,000 sgd to buy chinese yuan, yeah?'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 7: GT '4.9865. okay. can you buy for me, i think , okay, buy for me 6,000 yuan.' vs Pred 'correct. my account number is...'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 8: GT 'so, 6,000 sgd to buy chinese yuan, yeah?' vs Pred '5915? 6. okay, done. i put the order through already. then i give you the contract reference number.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 9: GT 'correct. my account number is...' vs Pred 'yeah, okay. what's the contract reference number?'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 10: GT '5915? 66. okay, done. i put the order through already. then i give you the contract reference number now.' vs Pred 'the contract reference number is cf...'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 11: GT 'yeah, okay. what's the contract reference number?' vs Pred 'cf... 8283... 9744... dash 37... mm-hmm. so, cf8283... 9744... dash 37.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 12: GT 'the contract reference number is cf...' vs Pred 'yeah, correct.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 13: GT 'cf... 8283... 9744... dash 37... mm-hmm.' vs Pred 'okay. okay, then that's it. thank you.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 14: GT 'so, cf8283... 9744... dash 37.' vs Pred 'no problem, no problem. anything else, i can... anything, you can just call me again.'
+Translation mismatch in Ground Truth/Singlish calls/11709786425Call.json at index 15: GT 'yeah, correct.' vs Pred 'yeah, thanks. bye.'
+File: 11709786425Call.json
+WER: 3.51%
+CER: 1.30%
+Channel Accuracy: 10.53%
+DER: 15.56% (MSR=0.00%, FAR=1.25%, SMR=14.31%)
+BLEU: 0.2001
+METEOR: 0.2856
+chrF: 0.3021
+Errors:
+- Transcription errors detected: WER=3.51%, CER=1.30%
+- Speaker segment count mismatch: GT 19, Pred 16
+- Channel accuracy: 10.53%
+- High DER: 15.56% (MSR=0.00%, FAR=1.25%, SMR=14.31%)
+- Low BLEU score: 0.2001
+
+
+Attempting to process 1709789508Call 6.json
+Ground Truth Speakers (raw): [('spk1', 0.74, 3.24), ('spk2', 5.02, 13.68), ('spk1', 14.36, 17.4), ('spk2', 18.86, 19.88), ('spk1', 19.88, 30.44), ('spk2', 31.7, 34.36), ('spk1', 35.72, 40.96), ('spk2', 44.68, 46.04), ('spk1', 47.0, 48.24), ('spk2', 50.96, 59.72), ('spk1', 59.72, 61.7), ('spk2', 63.76, 68.98), ('spk1', 70.58, 73.12), ('spk2', 74.5, 75.26), ('spk1', 76.08, 78.22), ('spk2', 78.24, 83.08), ('spk1', 84.7, 93.86), ('spk2', 95.18, 96.74), ('spk1', 97.62, 99.56), ('spk2', 100.88, 105.48), ('spk1', 127.6, 144.14), ('spk2', 144.14, 149.24), ('spk1', 151.78, 158.72), ('spk2', 159.78, 160.5), ('spk1', 161.5, 166.22), ('spk2', 168.68, 172.96), ('spk1', 173.06, 175.42), ('spk2', 177.06, 179.42), ('spk1', 180.06, 182.42), ('spk2', 182.06, 185.02), ('spk1', 185.96, 192.42), ('spk2', 192.72, 196.2), ('spk1', 197.22, 199.62), ('spk2', 201.96, 205.42), ('spk1', 206.52, 208.52), ('spk2', 209.5, 210.34)]
+Predicted Speakers (raw): [('spk1', 0.74, 3.24), ('spk2', 5.02, 13.68), ('spk1', 14.36, 17.4), ('spk2', 18.86, 19.88), ('spk1', 19.88, 30.44), ('spk2', 31.7, 34.36), ('spk1', 35.72, 40.96), ('spk2', 44.68, 46.04), ('spk1', 47.0, 48.24), ('spk2', 50.96, 59.72), ('spk1', 59.72, 61.7), ('spk2', 63.76, 68.98), ('spk1', 70.58, 73.12), ('spk2', 74.5, 75.26), ('spk1', 76.08, 78.22), ('spk2', 78.24, 83.08), ('spk1', 84.7, 93.86), ('spk2', 95.18, 96.74), ('spk1', 97.62, 99.56), ('spk2', 100.88, 105.48), ('spk1', 127.6, 144.14), ('spk2', 144.14, 149.24), ('spk1', 151.78, 158.72), ('spk2', 159.78, 160.5), ('spk1', 161.5, 166.22), ('spk2', 168.68, 185.96), ('spk1', 185.96, 192.42), ('spk2', 192.72, 196.2), ('spk1', 197.22, 199.62), ('spk2', 201.96, 205.42), ('spk1', 206.52, 208.52), ('spk2', 209.5, 210.34)]
+SMR: GT 'spk1' (173.06–175.42) vs Pred 'spk2' (168.68–185.96), Overlap 2.359999999999985s
+SMR: GT 'spk1' (180.06–182.42) vs Pred 'spk2' (168.68–185.96), Overlap 2.359999999999985s
+DER=3.79%, MSR=0.00%, FAR=1.57%, SMR=2.23%, Duration=212.0s
+Translation count mismatch in Ground Truth/Singlish calls/1709789508Call 6.json: GT 36, Pred 32
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 3: GT 'ah, okay, aho' vs Pred 'ah, okay, i hope.'
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 11: GT 'ah, yeah, yeah, i'm just thinking. yeah, so i can sell my yen lah.' vs Pred 'ah, yeah, yeah, i'm just thinking. yeah, so cancel my yen lah.'
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 20: GT '539. okay, give me a moment. so, sell 500,000 japanese yen at 0.013, and your account number is 0' vs Pred '539. okay, give me a moment. so, sell 500,000 japanese yen at 0.013, and your account number is 0.013. 0.013.'
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 25: GT '4232' vs Pred '4232 1095 1095 dash 81 dash 81 dash 81'
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 26: GT '1095' vs Pred 'yes, so cf42321095-81'
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 27: GT '1095' vs Pred 'ah, okay, i got it'
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 28: GT 'dash 81' vs Pred 'so, anything else i can do for you today, mrs wong?'
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 29: GT 'dash 81' vs Pred 'err, yeah no more, no need thank you'
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 30: GT 'yes, so cf42321095-81' vs Pred 'okay, then bye, mrs wong'
+Translation mismatch in Ground Truth/Singlish calls/1709789508Call 6.json at index 31: GT 'ah, okay, i got it' vs Pred 'bye-bye'
+File: 1709789508Call 6.json
+WER: 3.54%
+CER: 2.36%
+Channel Accuracy: 69.44%
+DER: 3.79% (MSR=0.00%, FAR=1.57%, SMR=2.23%)
+BLEU: 0.8183
+METEOR: 0.7789
+chrF: 0.9256
+Errors:
+- Transcription errors detected: WER=3.54%, CER=2.36%
+- Speaker segment count mismatch: GT 36, Pred 32
+- Channel accuracy: 69.44%
+
+
+Attempting to process 1709790844Call 7.json
+Ground Truth Speakers (raw): [('spk1', 0.0, 4.56), ('spk2', 6.16, 9.08), ('spk1', 9.58, 10.22), ('spk2', 11.86, 16.88), ('spk1', 17.7, 21.08), ('spk2', 22.52, 24.68), ('spk1', 39.16, 42.58), ('spk2', 44.94, 50.54), ('spk1', 51.26, 54.28), ('spk2', 56.88, 63.3), ('spk1', 64.76, 65.98), ('spk2', 68.18, 76.48), ('spk1', 77.58, 82.08), ('spk2', 84.14, 89.98), ('spk1', 90.46, 92.24), ('spk2', 93.84, 97.84), ('spk1', 98.54, 99.46)]
+Predicted Speakers (raw): [('spk1', 0.0, 4.56), ('spk2', 6.16, 9.08), ('spk1', 9.58, 10.22), ('spk2', 11.86, 16.88), ('spk1', 17.7, 21.08), ('spk2', 22.52, 24.68), ('spk1', 39.16, 42.58), ('spk2', 44.94, 50.54), ('spk1', 51.26, 54.28), ('spk2', 56.88, 63.3), ('spk1', 64.76, 65.98), ('spk2', 68.18, 76.48), ('spk1', 77.58, 82.08), ('spk2', 84.14, 89.98), ('spk1', 90.46, 92.24), ('spk2', 93.84, 97.84), ('spk1', 98.54, 99.46)]
+Translation mismatch in Ground Truth/Singlish calls/1709790844Call 7.json at index 0: GT 'hi, this is raymond from dbs. how can i help you today?' vs Pred 'hi, this is raymond from vbs. how can i help you today?'
+Translation mismatch in Ground Truth/Singlish calls/1709790844Call 7.json at index 4: GT 'yeah. wait, let me pull up your account. what's your number again ah?' vs Pred 'yeah. wait, let me pull up your account. what's your number again?'
+Translation mismatch in Ground Truth/Singlish calls/1709790844Call 7.json at index 6: GT '3 7 7 ah, yeah, okay. so, you bought euro yesterday?' vs Pred 'ah, yeah, okay. so, you bought euro yesterday?'
+File: 1709790844Call 7.json
+WER: 2.97%
+CER: 0.95%
+Channel Accuracy: 100.00%
+DER: 0.00% (MSR=0.00%, FAR=0.00%, SMR=0.00%)
+BLEU: 0.9592
+METEOR: 0.9818
+chrF: 0.9897
+Errors:
+- Transcription errors detected: WER=2.97%, CER=0.95%
+
+
+Attempting to process 21709786890Call.json
+Ground Truth Speakers (raw): [('spk1', 0.0, 3.14), ('spk2', 5.02, 14.26), ('spk1', 15.88, 22.2), ('spk2', 23.74, 31.58), ('spk1', 33.0, 36.46), ('spk2', 38.46, 67.02), ('spk1', 68.18, 82.34), ('spk2', 83.88, 84.8), ('spk1', 85.98, 99.1), ('spk2', 100.92, 102.32), ('spk1', 103.54, 107.84), ('spk2', 108.4, 109.6), ('spk1', 111.14, 117.28), ('spk1', 117.78, 126.6), ('spk1', 126.78, 128.6), ('spk2', 129.78, 135.6), ('spk1', 136.3, 139.18), ('spk2', 140.4, 143.06)]
+Predicted Speakers (raw): [('spk1', 0.0, 3.14), ('spk2', 5.02, 14.26), ('spk1', 15.88, 22.2), ('spk2', 23.74, 31.58), ('spk1', 33.0, 36.46), ('spk2', 38.46, 67.02), ('spk1', 68.18, 82.34), ('spk2', 83.88, 84.8), ('spk1', 85.98, 99.1), ('spk2', 100.92, 102.32), ('spk1', 103.54, 107.84), ('spk2', 108.4, 109.6), ('spk1', 111.14, 117.28), ('spk2', 117.78, 135.6), ('spk1', 136.3, 139.18), ('spk2', 140.4, 143.06)]
+SMR: GT 'spk1' (117.78–126.6) vs Pred 'spk2' (117.78–135.6), Overlap 8.819999999999993s
+SMR: GT 'spk1' (126.78–128.6) vs Pred 'spk2' (117.78–135.6), Overlap 1.8199999999999932s
+DER=8.22%, MSR=0.00%, FAR=0.93%, SMR=7.29%, Duration=146.0s
+Translation count mismatch in Ground Truth/Singlish calls/21709786890Call.json: GT 18, Pred 16
+Translation mismatch in Ground Truth/Singlish calls/21709786890Call.json at index 0: GT 'hi, gregory from dbs. what can i do for you today?' vs Pred 'hi, gregory from dds. what can i do for you today?'
+Translation mismatch in Ground Truth/Singlish calls/21709786890Call.json at index 3: GT 'ah yes, yes. thank you. i really need to know. i write down somewhere yesterday then don't know where i put. now i cannot find leh, then my boss also want to know.' vs Pred 'ah yes, yes. thank you. i really need to know. i write down somewhere yesterday then don't know where i put. now i cannot find lane, then my boss also want to know.'
+Translation mismatch in Ground Truth/Singlish calls/21709786890Call.json at index 8: GT 'okay, i check for you now the contract reference number.mm. buy yen sell sgd. buy yen sell sgd yesterday.' vs Pred 'okay, i check for you now the contract reference number. buy yen sell sgd. buy yen sell sgd yesterday.'
+Translation mismatch in Ground Truth/Singlish calls/21709786890Call.json at index 13: GT 'okay, so cf66212679-39, right?' vs Pred 'dash 39. okay, so cf66212679-39, right? yes, correct. ah, thanks, thanks ah gregory. if not later i can ask my boss say why never record properly all that. thank you ah.'
+Translation mismatch in Ground Truth/Singlish calls/21709786890Call.json at index 14: GT 'yes, correct.' vs Pred 'can, no problem ping hui. you say properly this time ah?'
+Translation mismatch in Ground Truth/Singlish calls/21709786890Call.json at index 15: GT 'ah, thanks, thanks ah gregory. if not later i can ask my boss say why never record properly all that. thank you ah.' vs Pred 'yes, for sure one. thanks ah, bye.'
+File: 21709786890Call.json
+WER: 3.50%
+CER: 1.88%
+Channel Accuracy: 72.22%
+DER: 8.22% (MSR=0.00%, FAR=0.93%, SMR=7.29%)
+BLEU: 0.7226
+METEOR: 0.8534
+chrF: 0.8489
+Errors:
+- Transcription errors detected: WER=3.50%, CER=1.88%
+- Speaker segment count mismatch: GT 18, Pred 16
+- Channel accuracy: 72.22%
+
+
+Attempting to process 31709788307Call.json
+Ground Truth Speakers (raw): [('spk1', 0.0, 2.56), ('spk2', 3.94, 9.0), ('spk1', 10.42, 15.96), ('spk2', 16.22, 16.72), ('spk1', 19.16, 21.06), ('spk2', 22.14, 24.74), ('spk1', 24.74, 38.2), ('spk2', 39.18, 41.76), ('spk1', 43.96, 48.58), ('spk2', 49.68, 50.92), ('spk1', 52.9, 57.56), ('spk2', 61.56, 70.5), ('spk1', 71.86, 73.72), ('spk2', 76.64, 85.62), ('spk1', 87.38, 90.38), ('spk2', 91.4, 92.62), ('spk1', 94.52, 96.68), ('spk2', 97.94, 100.2), ('spk1', 100.98, 102.5), ('spk2', 103.72, 104.56)]
+Predicted Speakers (raw): [('spk1', 0.0, 2.56), ('spk2', 3.94, 9.0), ('spk1', 10.42, 15.96), ('spk2', 16.22, 16.72), ('spk1', 19.16, 21.06), ('spk2', 22.14, 24.74), ('spk1', 24.74, 38.2), ('spk2', 39.18, 41.76), ('spk1', 43.96, 48.58), ('spk2', 49.68, 50.92), ('spk1', 52.9, 57.56), ('spk2', 61.56, 70.5), ('spk1', 71.86, 73.72), ('spk2', 76.64, 85.62), ('spk1', 87.38, 90.38), ('spk2', 91.4, 92.62), ('spk1', 94.52, 96.68), ('spk2', 97.94, 100.2), ('spk1', 100.98, 102.5), ('spk2', 103.72, 104.56)]
+Translation mismatch in Ground Truth/Singlish calls/31709788307Call.json at index 8: GT 'ah no, no, 0.9891. selling aussie dollars, right?' vs Pred 'no, no, 0.9891. selling aussie dollars, right?'
+File: 31709788307Call.json
+WER: 0.53%
+CER: 0.30%
+Channel Accuracy: 100.00%
+DER: 0.00% (MSR=0.00%, FAR=0.00%, SMR=0.00%)
+BLEU: 0.9947
+METEOR: 0.9895
+chrF: 0.9979
+Errors:
+- Transcription errors detected: WER=0.53%, CER=0.30%
+

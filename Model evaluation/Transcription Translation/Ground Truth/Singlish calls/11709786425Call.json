@@ -1,0 +1,198 @@
+{
+  "audio_file": "11709786425Call.wav",
+  "call_duration": "141s",
+  "transcription": [
+    {
+      "text": "Good afternoon, Ms. Soh. Sally from DBS here. What can I do for you today?",
+      "start": 0.0,
+      "end": 4.06,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Hey, hi, Sally. I want to buy yuan. What is the rate today? ",
+      "start": 6.1,
+      "end": 17.04,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Yuan, is it? Wait, I check for you now.",
+      "start": 12.1,
+      "end": 16.04,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah, okay.",
+      "start": 16.04,
+      "end": 17.04,
+      "speaker": "spk2"
+    },
+    {
+      "text": "For yuan, the rate is 0.0.",
+      "start": 18.86,
+      "end": 21.62,
+      "speaker": "spk1"
+    },
+    {
+      "text": "For yuan, right? Not yen. I want to buy the Chinese yuan.",
+      "start": 22.68,
+      "end": 27.48,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Oh, sorry. Chinese yuan, I check. One second. For Chinese yuan, the rate is 4.9865.",
+      "start": 28.54,
+      "end": 38.58,
+      "speaker": "spk1"
+    },
+    {
+      "text": "4.9865. Okay. Can you buy for me, I think , Okay, buy for me 6,000 yuan.",
+      "start": 41.6,
+      "end": 56.26,
+      "speaker": "spk2"
+    },
+    {
+      "text": "So, 6,000 SGD to buy Chinese yuan, yeah?",
+      "start": 57.48,
+      "end": 61.24,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Correct. My account number is...",
+      "start": 62.3,
+      "end": 64.72,
+      "speaker": "spk2"
+    },
+    {
+      "text": "5915? 66. Okay, done. I put the order through already. Then I give you the contract reference number now.",
+      "start": 77.64,
+      "end": 87.46,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah, okay. What's the contract reference number?",
+      "start": 88.82,
+      "end": 93.7,
+      "speaker": "spk2"
+    },
+    {
+      "text": "The contract reference number is CF...",
+      "start": 95.16,
+      "end": 97.74,
+      "speaker": "spk1"
+    },
+    {
+      "text": "CF... 8283... 9744... dash 37... Mm-hmm.",
+      "start": 97.74,
+      "end": 113.98,
+      "speaker": "spk1"
+    },
+    {
+      "text": "So, CF8283... 9744... dash 37.",
+      "start": 115.74,
+      "end": 121.98,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Yeah, correct.",
+      "start": 123.14,
+      "end": 124.2,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Okay. Okay, then that's it. Thank you.",
+      "start": 125.46,
+      "end": 128.74,
+      "speaker": "spk2"
+    },
+    {
+      "text": "No problem, no problem. Anything else, I can... Anything, you can just call me again.",
+      "start": 129.82,
+      "end": 134.78,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah, thanks. Bye.",
+      "start": 136.28,
+      "end": 137.76,
+      "speaker": "spk2"
+    }
+  ],
+  "translation": [
+    {
+      "sinlgish": "Good afternoon, Ms. Soh. Sally from DBS here. What can I do for you today?",
+      "english": "Good afternoon, Ms. Soh. Sally from DBS here. What can I do for you today?"
+    },
+    {
+      "sinlgish": "Hey, hi, Sally. I want to buy yuan. What is the rate today? ",
+      "english": "Hey, hi, Sally. I want to buy yuan. What is the rate today? "
+    },
+    {
+      "sinlgish": "Yuan, is it? Wait, I check for you now.",
+      "english": "Yuan, is it? Wait, I check for you now."
+    },
+    {
+      "sinlgish": "Yeah, okay.",
+      "english": "Yeah, okay."
+    },
+    {
+      "sinlgish": "For yuan, the rate is 0.0.",
+      "english": "For yuan, the rate is 0.0."
+    },
+    {
+      "sinlgish": "For yuan, right? Not yen. I want to buy the Chinese yuan.",
+      "english": "For yuan, right? Not yen. I want to buy the Chinese yuan."
+    },
+    {
+      "sinlgish": "Oh, sorry. Chinese yuan, I check. One second. For Chinese yuan, the rate is 4.9865.",
+      "english": "Oh, sorry. Chinese yuan, I check. One second. For Chinese yuan, the rate is 4.9865."
+    },
+    {
+      "sinlgish": "4.9865. Okay. Can you buy for me, I think , Okay, buy for me 6,000 yuan.",
+      "english": "4.9865. Okay. Can you buy for me, I think , Okay, buy for me 6,000 yuan."
+    },
+    {
+      "sinlgish": "So, 6,000 SGD to buy Chinese yuan, yeah?",
+      "english": "So, 6,000 SGD to buy Chinese yuan, yeah?"
+    },
+    {
+      "sinlgish": "Correct. My account number is...",
+      "english": "Correct. My account number is..."
+    },
+    {
+      "sinlgish": "5915? 66. Okay, done. I put the order through already. Then I give you the contract reference number now.",
+      "english": "5915? 66. Okay, done. I put the order through already. Then I give you the contract reference number now."
+    },
+    {
+      "sinlgish": "Yeah, okay. What's the contract reference number?",
+      "english": "Yeah, okay. What's the contract reference number?"
+    },
+    {
+      "sinlgish": "The contract reference number is CF...",
+      "english": "The contract reference number is CF..."
+    },
+    {
+      "sinlgish": "CF... 8283... 9744... dash 37... Mm-hmm.",
+      "english": "CF... 8283... 9744... dash 37... Mm-hmm."
+    },
+    {
+      "sinlgish": "So, CF8283... 9744... dash 37.",
+      "english": "So, CF8283... 9744... dash 37."
+    },
+    {
+      "sinlgish": "Yeah, correct.",
+      "english": "Yeah, correct."
+    },
+    {
+      "sinlgish": "Okay. Okay, then that's it. Thank you.",
+      "english": "Okay. Okay, then that's it. Thank you."
+    },
+    {
+      "sinlgish": "No problem, no problem. Anything else, I can... Anything, you can just call me again.",
+      "english": "No problem, no problem. Anything else, I can... Anything, you can just call me again."
+    },
+    {
+      "sinlgish": "Yeah, thanks. Bye.",
+      "english": "Yeah, thanks. Bye."
+    }
+  ]
+}

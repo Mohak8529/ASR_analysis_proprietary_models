@@ -1,0 +1,167 @@
+{
+  "audio_file": "Relay the message John Melvin Dela Frez Zandro Bernardino 641060932531 010225.wav",
+  "transcription": [
+    {
+      "text": "Sandro Bernardino Hello, good morning Mr. Sandro Bernardino Ano po ito? Ano po? Nandiyan po ba si Sandro Bernardino, ma'am? Ano po si Sandro Bernardino?",
+      "start": 6.12,
+      "end": 40.86,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Ito, samayin po.",
+      "start": 42.24,
+      "end": 45.3,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ano po si Sandro Bernardino?",
+      "start": 57.76,
+      "end": 61.74,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Masamayin po.",
+      "start": 63.54,
+      "end": 64.66,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ano po?",
+      "start": 84.94,
+      "end": 85.48,
+      "speaker": "spk2"
+    },
+    {
+      "text": "So, sa ibang kaposto na may pangatakot, ano naman po ang number na na?",
+      "start": 85.88,
+      "end": 90.14,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Wala na siya ibang number, ma'am.",
+      "start": 91.5,
+      "end": 93.2,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Ano po?",
+      "start": 93.64,
+      "end": 94.32,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Mga na-oras po ba namin siya, ma'am? Pwedeng makontak yung makakasal siya ng tawag sa amin.",
+      "start": 95.92,
+      "end": 102.36,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Kung ito po, nakakontak niyo, mga sisipa po ako nasa bahay.",
+      "start": 104.0,
+      "end": 108.28,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah, 6pm pa.",
+      "start": 109.36,
+      "end": 110.38,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Nasi-sign pa kayo. Pwede naman sila",
+      "start": 109.44,
+      "end": 111.7,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Sige, ma'am. Pa-inform na lang po siya, ma'am.",
+      "start": 111.14,
+      "end": 113.0,
+      "speaker": "spk2"
+    },
+    {
+      "text": "ito po.",
+      "start": 111.7,
+      "end": 112.08,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ulit, ma'am. Galing po sa kanyang Maya Bank. Thank you po, ma'am, and have a nice day, po.",
+      "start": 113.02,
+      "end": 116.38,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay po. Okay po.",
+      "start": 117.28,
+      "end": 120.08,
+      "speaker": "spk1"
+    }
+  ],
+  "translation": [
+    {
+      "tagalog": "Sandro Bernardino Hello, good morning Mr. Sandro Bernardino Ano po ito? Ano po? Nandiyan po ba si Sandro Bernardino, ma'am? Ano po si Sandro Bernardino?",
+      "english": "Hello, Mr. Bernard, how are you?"
+    },
+    {
+      "tagalog": "Ito, samayin po.",
+      "english": "It's all right."
+    },
+    {
+      "tagalog": "Ano po si Sandro Bernardino?",
+      "english": "What is Sandro Bernardino?"
+    },
+    {
+      "tagalog": "Masamayin po.",
+      "english": "It's a pity."
+    },
+    {
+      "tagalog": "Ano po?",
+      "english": "What's that?"
+    },
+    {
+      "tagalog": "So, sa ibang kaposto na may pangatakot, ano naman po ang number na na?",
+      "english": "So, in the other case of fear, what's the number?"
+    },
+    {
+      "tagalog": "Wala na siya ibang number, ma'am.",
+      "english": "He doesn't have another number, ma'am."
+    },
+    {
+      "tagalog": "Ano po?",
+      "english": "What's that?"
+    },
+    {
+      "tagalog": "Mga na-oras po ba namin siya, ma'am? Pwedeng makontak yung makakasal siya ng tawag sa amin.",
+      "english": "We're going to have to wait for her to call us, ma'am, so we can get in touch with her."
+    },
+    {
+      "tagalog": "Kung ito po, nakakontak niyo, mga sisipa po ako nasa bahay.",
+      "english": "If you can get in touch, I'm at home."
+    },
+    {
+      "tagalog": "Ah, 6pm pa.",
+      "english": "Ah, it's after 6pm."
+    },
+    {
+      "tagalog": "Nasi-sign pa kayo. Pwede naman sila",
+      "english": "You can sign them."
+    },
+    {
+      "tagalog": "Sige, ma'am. Pa-inform na lang po siya, ma'am.",
+      "english": "Yes, ma'am, just let him know, ma'am."
+    },
+    {
+      "tagalog": "ito po.",
+      "english": "This is it."
+    },
+    {
+      "tagalog": "Ulit, ma'am. Galing po sa kanyang Maya Bank. Thank you po, ma'am, and have a nice day, po.",
+      "english": "Hello, I'm from the Mayan community, have a nice day."
+    },
+    {
+      "tagalog": "Okay po. Okay po.",
+      "english": "It's all right."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "audio_file": "1709790844Call 7.wav",
+  "call_duration": "101s",
+  "transcription": [
+    {
+      "text": "Hi, this is Raymond from VBS. How can I help you today?",
+      "start": 0.0,
+      "end": 4.56,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Hey, hi, Raymond. Jacqueline here.",
+      "start": 6.16,
+      "end": 9.08,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Hey, Jacqueline.",
+      "start": 9.58,
+      "end": 10.22,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Hey, Raymond. Yesterday, remember I got called to buy the euro, right?",
+      "start": 11.86,
+      "end": 16.88,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Yeah. Wait, let me pull up your account. What's your number again?",
+      "start": 17.7,
+      "end": 21.08,
+      "speaker": "spk1"
+    },
+    {
+      "text": "My account number is...",
+      "start": 22.52,
+      "end": 24.68,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Ah, yeah, okay. So, you bought euro yesterday?",
+      "start": 39.16,
+      "end": 42.58,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah, yeah. Good, good, good, good. How much did I buy, ah? I don't know why. For the life of me, I cannot remember, leh.",
+      "start": 44.94,
+      "end": 50.54,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Well, yesterday, you bought 7,000 euros.",
+      "start": 51.26,
+      "end": 54.28,
+      "speaker": "spk1"
+    },
+    {
+      "text": "7,000 euros, is it? Ah, okay. Can, can.",
+      "start": 56.88,
+      "end": 63.3,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Um, you want to trade today?",
+      "start": 64.76,
+      "end": 65.98,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Eh, no, lah. Just that I need to check this. My colleague got asked me just now. Then somehow, you know why I cannot remember the details, leh? So, that's why I need to call you.",
+      "start": 68.18,
+      "end": 76.48,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Ah, yeah. If anything, can call to find out, lah. I can check for you in the system.",
+      "start": 77.58,
+      "end": 82.08,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah, I thought that also. Okay, lah. Then, that's it. Another time I call to trade, lah. Today, no need yet.",
+      "start": 84.14,
+      "end": 89.98,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Um, okay. No problem.",
+      "start": 90.46,
+      "end": 92.24,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah. Ah, okay, Raymond. I got to go already. I got meeting to attend. Okay, bye-bye.",
+      "start": 93.84,
+      "end": 97.84,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay, bye, Jacqueline.",
+      "start": 98.54,
+      "end": 99.46,
+      "speaker": "spk1"
+    }
+  ],
+  "translation": [
+    {
+      "sinlgish": "Hi, this is Raymond from VBS. How can I help you today?",
+      "english": "Hi, this is Raymond from VBS. How can I help you today?"
+    },
+    {
+      "sinlgish": "Hey, hi, Raymond. Jacqueline here.",
+      "english": "Hey, hi, Raymond. Jacqueline here."
+    },
+    {
+      "sinlgish": "Hey, Jacqueline.",
+      "english": "Hey, Jacqueline."
+    },
+    {
+      "sinlgish": "Hey, Raymond. Yesterday, remember I got called to buy the euro, right?",
+      "english": "Hey, Raymond. Yesterday, remember I got called to buy the euro, right?"
+    },
+    {
+      "sinlgish": "Yeah. Wait, let me pull up your account. What's your number again?",
+      "english": "Yeah. Wait, let me pull up your account. What's your number again?"
+    },
+    {
+      "sinlgish": "My account number is...",
+      "english": "My account number is..."
+    },
+    {
+      "sinlgish": "Ah, yeah, okay. So, you bought euro yesterday?",
+      "english": "Ah, yeah, okay. So, you bought euro yesterday?"
+    },
+    {
+      "sinlgish": "Ah, yeah. Good, good, good, good. How much did I buy, ah? I don't know why. For the life of me, I cannot remember, leh.",
+      "english": "Ah, yeah. Good, good, good, good. How much did I buy, ah? I don't know why. For the life of me, I cannot remember, leh."
+    },
+    {
+      "sinlgish": "Well, yesterday, you bought 7,000 euros.",
+      "english": "Well, yesterday, you bought 7,000 euros."
+    },
+    {
+      "sinlgish": "7,000 euros, is it? Ah, okay. Can, can.",
+      "english": "7,000 euros, is it? Ah, okay. Can, can."
+    },
+    {
+      "sinlgish": "Um, you want to trade today?",
+      "english": "Um, you want to trade today?"
+    },
+    {
+      "sinlgish": "Eh, no, lah. Just that I need to check this. My colleague got asked me just now. Then somehow, you know why I cannot remember the details, leh? So, that's why I need to call you.",
+      "english": "Eh, no, lah. Just that I need to check this. My colleague got asked me just now. Then somehow, you know why I cannot remember the details, leh? So, that's why I need to call you."
+    },
+    {
+      "sinlgish": "Ah, yeah. If anything, can call to find out, lah. I can check for you in the system.",
+      "english": "Ah, yeah. If anything, can call to find out, lah. I can check for you in the system."
+    },
+    {
+      "sinlgish": "Yeah, I thought that also. Okay, lah. Then, that's it. Another time I call to trade, lah. Today, no need yet.",
+      "english": "Yeah, I thought that also. Okay, lah. Then, that's it. Another time I call to trade, lah. Today, no need yet."
+    },
+    {
+      "sinlgish": "Um, okay. No problem.",
+      "english": "Um, okay. No problem."
+    },
+    {
+      "sinlgish": "Yeah. Ah, okay, Raymond. I got to go already. I got meeting to attend. Okay, bye-bye.",
+      "english": "Yeah. Ah, okay, Raymond. I got to go already. I got meeting to attend. Okay, bye-bye."
+    },
+    {
+      "sinlgish": "Okay, bye, Jacqueline.",
+      "english": "Okay, bye, Jacqueline."
+    }
+  ]
+}

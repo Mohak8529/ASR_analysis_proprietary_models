@@ -1,0 +1,368 @@
+{
+  "audio_file": "1709789508Call 6.wav",
+  "call_duration" : "212s",
+  "transcription": [
+    {
+      "text": "Hi, Ben from DBS. How can I help you today?",
+      "start": 0.74,
+      "end": 3.24,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah, yeah, Ben ah, hello. I want to ask you, today the rate to sell Japan Yen is what ah?",
+      "start": 5.02,
+      "end": 13.68,
+      "speaker": "spk2"
+    },
+    {
+      "text": "To sell Japan Yen, one moment, let me check for you now.",
+      "start": 14.36,
+      "end": 17.4,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah, okay, Aho",
+      "start": 18.86,
+      "end": 19.88,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Hi, to sell Japanese Yen, the rate today is 0.013. Sorry, how may I address you, ma'am?",
+      "start": 19.88,
+      "end": 30.44,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah, ah, call me Mrs Wong.",
+      "start": 31.7,
+      "end": 34.36,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Um, Mrs Wong, yeah, so the rate today is 0.013.",
+      "start": 35.72,
+      "end": 40.96,
+      "speaker": "spk1"
+    },
+    {
+      "text": "0.013?",
+      "start": 44.68,
+      "end": 46.04,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Hmm, yeah, correct.",
+      "start": 47.0,
+      "end": 48.24,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Okay, um, then, um...",
+      "start": 50.96,
+      "end": 59.72,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Mrs Wong, are you still on the line?",
+      "start": 59.72,
+      "end": 61.7,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah, yeah, yeah, I'm just thinking. Yeah, so i can sell my Yen lah.",
+      "start": 63.76,
+      "end": 68.98,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay, then I put the order through.",
+      "start": 70.58,
+      "end": 73.12,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah, sell.",
+      "start": 74.5,
+      "end": 75.26,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay, how much would you like to sell?",
+      "start": 76.08,
+      "end": 78.22,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Sell the 500,000 Yen.",
+      "start": 78.24,
+      "end": 83.08,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay, so I repeat your order, Mrs Wong. You want to sell 500,000 Japanese Yen at rate 0.013.",
+      "start": 84.7,
+      "end": 93.86,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Yeah, correct, correct.",
+      "start": 95.18,
+      "end": 96.74,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Mrs Wong, what account do you want to use?",
+      "start": 97.62,
+      "end": 99.56,
+      "speaker": "spk1"
+    },
+    {
+      "text": "I give you the account number. It is 0...",
+      "start": 100.88,
+      "end": 105.48,
+      "speaker": "spk2"
+    },
+    {
+      "text": "539. Okay, give me a moment. So, sell 500,000 Japanese Yen at 0.013, and your account number is 0",
+      "start": 127.6,
+      "end": 144.14,
+      "speaker": "spk1"
+    },
+    {
+      "text": "3, 9, correct? Um, yeah, correct.",
+      "start": 144.14,
+      "end": 149.24,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay, done. I give you the contract reference number. You hang on ah.",
+      "start": 151.78,
+      "end": 158.72,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah.",
+      "start": 159.78,
+      "end": 160.5,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay, the contract reference number is 4232.",
+      "start": 161.5,
+      "end": 166.22,
+      "speaker": "spk1"
+    },
+    {
+      "text": "4232",
+      "start": 168.68,
+      "end": 172.96,
+      "speaker": "spk2"
+    },
+    {
+      "text": "1095",
+      "start": 173.06,
+      "end": 175.42,
+      "speaker": "spk1"
+    },
+    {
+      "text": "1095",
+      "start": 177.06,
+      "end": 179.42,
+      "speaker": "spk2"
+    },
+    {
+      "text": "dash 81",
+      "start": 180.06,
+      "end": 182.42,
+      "speaker": "spk1"
+    },
+    {
+      "text": "dash 81",
+      "start": 182.06,
+      "end": 185.02,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Yes, so CF42321095-81",
+      "start": 185.96,
+      "end": 192.42,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Ah, okay, I got it",
+      "start": 192.72,
+      "end": 196.2,
+      "speaker": "spk2"
+    },
+    {
+      "text": "So, anything else I can do for you today, Mrs Wong?",
+      "start": 197.22,
+      "end": 199.62,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Err, yeah No more, no need Thank you",
+      "start": 201.96,
+      "end": 205.42,
+      "speaker": "spk2"
+    },
+    {
+      "text": "Okay, then bye, Mrs Wong",
+      "start": 206.52,
+      "end": 208.52,
+      "speaker": "spk1"
+    },
+    {
+      "text": "Bye-bye",
+      "start": 209.5,
+      "end": 210.34,
+      "speaker": "spk2"
+    }
+  ],
+  "translation": [
+    {
+      "sinlgish": "Hi, Ben from DBS. How can I help you today?",
+      "english": "Hi, Ben from DBS. How can I help you today?"
+    },
+    {
+      "sinlgish": "Ah, yeah, Ben ah, hello. I want to ask you, today the rate to sell Japan Yen is what ah?",
+      "english": "Ah, yeah, Ben ah, hello. I want to ask you, today the rate to sell Japan Yen is what ah?"
+    },
+    {
+      "sinlgish": "To sell Japan Yen, one moment, let me check for you now.",
+      "english": "To sell Japan Yen, one moment, let me check for you now."
+    },
+    {
+      "sinlgish": "Ah, okay, Aho",
+      "english": "Ah, okay, Aho"
+    },
+    {
+      "sinlgish": "Hi, to sell Japanese Yen, the rate today is 0.013. Sorry, how may I address you, ma'am?",
+      "english": "Hi, to sell Japanese Yen, the rate today is 0.013. Sorry, how may I address you, ma'am?"
+    },
+    {
+      "sinlgish": "Ah, ah, call me Mrs Wong.",
+      "english": "Ah, ah, call me Mrs Wong."
+    },
+    {
+      "sinlgish": "Um, Mrs Wong, yeah, so the rate today is 0.013.",
+      "english": "Um, Mrs Wong, yeah, so the rate today is 0.013."
+    },
+    {
+      "sinlgish": "0.013?",
+      "english": "0.013?"
+    },
+    {
+      "sinlgish": "Hmm, yeah, correct.",
+      "english": "Hmm, yeah, correct."
+    },
+    {
+      "sinlgish": "Okay, um, then, um...",
+      "english": "Okay, um, then, um..."
+    },
+    {
+      "sinlgish": "Mrs Wong, are you still on the line?",
+      "english": "Mrs Wong, are you still on the line?"
+    },
+    {
+      "sinlgish": "Ah, yeah, yeah, I'm just thinking. Yeah, so i can sell my Yen lah.",
+      "english": "Ah, yeah, yeah, I'm just thinking. Yeah, so i can sell my Yen lah."
+    },
+    {
+      "sinlgish": "Okay, then I put the order through.",
+      "english": "Okay, then I put the order through."
+    },
+    {
+      "sinlgish": "Yeah, sell.",
+      "english": "Yeah, sell."
+    },
+    {
+      "sinlgish": "Okay, how much would you like to sell?",
+      "english": "Okay, how much would you like to sell?"
+    },
+    {
+      "sinlgish": "Sell the 500,000 Yen.",
+      "english": "Sell the 500,000 Yen."
+    },
+    {
+      "sinlgish": "Okay, so I repeat your order, Mrs Wong. You want to sell 500,000 Japanese Yen at rate 0.013.",
+      "english": "Okay, so I repeat your order, Mrs Wong. You want to sell 500,000 Japanese Yen at rate 0.013."
+    },
+    {
+      "sinlgish": "Yeah, correct, correct.",
+      "english": "Yeah, correct, correct."
+    },
+    {
+      "sinlgish": "Mrs Wong, what account do you want to use?",
+      "english": "Mrs Wong, what account do you want to use?"
+    },
+    {
+      "sinlgish": "I give you the account number. It is 0...",
+      "english": "I give you the account number. It is 0..."
+    },
+    {
+      "sinlgish": "539. Okay, give me a moment. So, sell 500,000 Japanese Yen at 0.013, and your account number is 0",
+      "english": "539. Okay, give me a moment. So, sell 500,000 Japanese Yen at 0.013, and your account number is 0"
+    },
+    {
+      "sinlgish": "3, 9, correct? Um, yeah, correct.",
+      "english": "3, 9, correct? Um, yeah, correct."
+    },
+    {
+      "sinlgish": "Okay, done. I give you the contract reference number. You hang on ah.",
+      "english": "Okay, done. I give you the contract reference number. You hang on ah."
+    },
+    {
+      "sinlgish": "Ah.",
+      "english": "Ah."
+    },
+    {
+      "sinlgish": "Okay, the contract reference number is 4232.",
+      "english": "Okay, the contract reference number is 4232."
+    },
+    {
+      "sinlgish": "4232",
+      "english": "4232"
+    },
+    {
+      "sinlgish": "1095",
+      "english": "1095"
+    },
+    {
+      "sinlgish": "1095",
+      "english": "1095"
+    },
+    {
+      "sinlgish": "dash 81",
+      "english": "dash 81"
+    },
+    {
+      "sinlgish": "dash 81",
+      "english": "dash 81"
+    },
+    {
+      "sinlgish": "Yes, so CF42321095-81",
+      "english": "Yes, so CF42321095-81"
+    },
+    {
+      "sinlgish": "Ah, okay, I got it",
+      "english": "Ah, okay, I got it"
+    },
+    {
+      "sinlgish": "So, anything else I can do for you today, Mrs Wong?",
+      "english": "So, anything else I can do for you today, Mrs Wong?"
+    },
+    {
+      "sinlgish": "Err, yeah No more, no need Thank you",
+      "english": "Err, yeah No more, no need Thank you"
+    },
+    {
+      "sinlgish": "Okay, then bye, Mrs Wong",
+      "english": "Okay, then bye, Mrs Wong"
+    },
+    {
+      "sinlgish": "Bye-bye",
+      "english": "Bye-bye"
+    }
+  ]
+}

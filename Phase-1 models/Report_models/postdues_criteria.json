@@ -1,0 +1,204 @@
+{
+    "criteria": [
+      {
+        "name": "call_open_timely_manner",
+        "keywords": ["good afternoon", "calling"],
+        "max_score": 3,
+        "condition": "start_time <= 5",
+        "category": "call_opening_points",
+        "details_reason": "Call opened within 5 seconds",
+        "matched_phrase": "good afternoon"
+      },
+      {
+        "name": "standard_opening_spiel",
+        "keywords": ["calling from", "recorded"],
+        "max_score": 5,
+        "category": "call_opening_points",
+        "details_reason": "Used standard opening spiel",
+        "matched_phrase": "calling from FinTrust Services"
+      },
+      {
+        "name": "did_the_agent_state_the_product_name_current_balance_and_due_date",
+        "keywords": ["overdue payment", "credit card", "was due on"],
+        "max_score": 5,
+        "category": "call_opening_points",
+        "details_reason": "Stated product, balance, and due date",
+        "matched_phrase": "overdue payment on your credit card was due on"
+      },
+      {
+        "name": "friendly_confident_tone",
+        "keywords": ["thank you", "please"],
+        "max_score": 7,
+        "category": "customer_experience_points",
+        "details_reason": "Maintained friendly and confident tone",
+        "matched_phrase": "thank you"
+      },
+      {
+        "name": "attentive_listening",
+        "keywords": ["of course", "clarification"],
+        "max_score": 7,
+        "category": "customer_experience_points",
+        "details_reason": "Listened attentively and displayed understanding",
+        "matched_phrase": "of course"
+      },
+      {
+        "name": "did_the_agent_use_effective_probing_questions",
+        "keywords": ["would you like", "payment"],
+        "max_score": 10,
+        "category": "negotiation_points",
+        "details_reason": "Used effective probing questions",
+        "matched_phrase": "Would you like to make the payment",
+        "additional_fields": [
+          {
+            "name": "probing_questions_effectiveness",
+            "details_reason": "Used effective probing questions",
+            "matched_phrase": "Would you like to make the payment"
+          }
+        ]
+      },
+      {
+        "name": "did_the_agent_act_towards_payment_resolution",
+        "keywords": ["payment", "today", "evening"],
+        "max_score": 20,
+        "category": "negotiation_points",
+        "details_reason": "Acted towards payment resolution",
+        "matched_phrase": "pay it online by this evening",
+        "additional_fields": [
+          {
+            "name": "payment_resolution_actions",
+            "details_reason": "Payment resolution agreed",
+            "matched_phrase": "pay it online by this evening"
+          },
+          {
+            "name": "payment_promptness",
+            "details_reason": "Customer committed to timely payment",
+            "matched_phrase": "pay it online by this evening"
+          }
+        ]
+      },
+      {
+        "name": "did_the_agent_provide_the_consequence_of_not_paying",
+        "keywords": ["late fee", "increase"],
+        "max_score": 10,
+        "category": "negotiation_points",
+        "details_reason": "Provided consequence of not paying",
+        "matched_phrase": "late fee will not increase further",
+        "additional_fields": [
+          {
+            "name": "payment_delay_consequences",
+            "details_reason": "Explained delay consequence",
+            "matched_phrase": "late fee will not increase further"
+          }
+        ]
+      },
+      {
+        "name": "follow_policies_procedure",
+        "keywords": ["due amount", "principal", "late fees"],
+        "max_score": 10,
+        "category": "process_compliance_points",
+        "details_reason": "Followed policy and procedure",
+        "matched_phrase": "principal and late fees"
+      },
+      {
+        "name": "call_document",
+        "keywords": ["document", "tools"],
+        "max_score": 5,
+        "category": "documentation_points",
+        "details_reason": "Properly documented the call",
+        "matched_phrase": "documented in tools"
+      },
+      {
+        "name": "call_recap",
+        "keywords": ["late fee", "increase"],
+        "max_score": 5,
+        "category": "call_closing_points",
+        "details_reason": "Provided call recap",
+        "matched_phrase": "late fee will not increase further"
+      },
+      {
+        "name": "additional_queries",
+        "keywords": ["anything else", "help"],
+        "max_score": 3,
+        "category": "call_closing_points",
+        "details_reason": "Asked if there are additional queries",
+        "matched_phrase": "Is there anything else I can help you with"
+      },
+      {
+        "name": "thank_customer",
+        "keywords": ["thank you", "great day"],
+        "max_score": 2,
+        "category": "call_closing_points",
+        "details_reason": "Thanked the customer",
+        "matched_phrase": "Thank you for your time"
+      },
+      {
+        "name": "call_closing",
+        "keywords": ["goodbye", "day ahead"],
+        "max_score": 5,
+        "category": "call_closing_points",
+        "details_reason": "Call closed professionally",
+        "matched_phrase": "goodbye"
+      },
+      {
+        "name": "call_record_clause",
+        "keywords": ["recorded", "quality"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Call record clause mentioned",
+        "matched_phrase": "This call is recorded"
+      },
+      {
+        "name": "pid_process",
+        "keywords": ["full name", "mobile number"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "PID process followed",
+        "matched_phrase": "full name and registered mobile number"
+      },
+      {
+        "name": "udcp_process",
+        "keywords": ["swear", "offensive"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Adhered to UDCP Prohibition",
+        "matched_phrase": "No offensive language",
+        "negation": true
+      },
+      {
+        "name": "call_avoidance",
+        "keywords": ["avoid", "hang up"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Call avoidance detected",
+        "matched_phrase": "avoid",
+        "violation": true
+      },
+      {
+        "name": "misleading_information",
+        "keywords": ["mislead", "false"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Misleading information detected",
+        "matched_phrase": "mislead",
+        "violation": true
+      },
+      {
+        "name": "data_manipulation",
+        "keywords": ["manipulate", "alter"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Data manipulation detected",
+        "matched_phrase": "manipulate",
+        "violation": true
+      },
+      {
+        "name": "customer_verification_accuracy",
+        "keywords": ["customer_name", "min_number"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Accurate verification provided",
+        "matched_phrase": "customer_name min_number",
+        "custom_condition": "output['customer_name'] and output['min_number'] and speaker == 'spk2' and output['customer_name'] in dialogue and output['min_number'] in dialogue"
+      }
+    ]
+  }

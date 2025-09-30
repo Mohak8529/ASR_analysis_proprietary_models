@@ -1,0 +1,169 @@
+{
+    "criteria": [
+      {
+        "name": "call_open_timely_manner",
+        "keywords": ["good afternoon", "calling"],
+        "max_score": 5,
+        "condition": "start_time <= 5",
+        "category": "call_opening_points",
+        "details_reason": "Call opened within 5 seconds",
+        "matched_phrase": "good afternoon"
+      },
+      {
+        "name": "standard_opening_spiel",
+        "keywords": ["calling from", "recorded"],
+        "max_score": 10,
+        "category": "call_opening_points",
+        "details_reason": "Used standard opening spiel",
+        "matched_phrase": "calling from Maya Bank"
+      },
+      {
+        "name": "did_the_agent_state_the_product_name_current_balance_and_due_date",
+        "keywords": ["is due on", "balance", "loan"],
+        "max_score": 5,
+        "category": "call_opening_points",
+        "details_reason": "Stated product name, balance, and due date",
+        "matched_phrase": "loan balance is due on"
+      },
+      {
+        "name": "friendly_confident_tone",
+        "keywords": ["thank you", "please"],
+        "max_score": 10,
+        "category": "customer_experience_points",
+        "details_reason": "Maintained friendly and confident tone",
+        "matched_phrase": "thank you"
+      },
+      {
+        "name": "attentive_listening",
+        "keywords": ["of course", "clarification"],
+        "max_score": 10,
+        "category": "customer_experience_points",
+        "details_reason": "Listened attentively and displayed understanding",
+        "matched_phrase": "of course"
+      },
+      {
+        "name": "did_the_agent_use_effective_probing_questions",
+        "keywords": ["would you like", "receive"],
+        "max_score": 10,
+        "category": "negotiation_points",
+        "details_reason": "Used effective probing questions",
+        "matched_phrase": "Would you like to receive your SOA",
+        "additional_fields": [
+          {
+            "name": "probing_questions_effectiveness",
+            "details_reason": "Used effective probing questions",
+            "matched_phrase": "Would you like to receive your SOA"
+          }
+        ]
+      },
+      {
+        "name": "follow_policies_procedure",
+        "keywords": ["benefits", "consequences"],
+        "max_score": 15,
+        "category": "process_compliance_points",
+        "details_reason": "Followed policies and procedures",
+        "matched_phrase": "benefits of paying on time"
+      },
+      {
+        "name": "call_document",
+        "keywords": ["document", "tools"],
+        "max_score": 10,
+        "category": "documentation_points",
+        "details_reason": "Properly documented the call",
+        "matched_phrase": "documented in tools"
+      },
+      {
+        "name": "call_recap",
+        "keywords": ["payment", "is due on"],
+        "max_score": 5,
+        "category": "call_closing_points",
+        "details_reason": "Provided call recap",
+        "matched_phrase": "payment is due on"
+      },
+      {
+        "name": "additional_queries",
+        "keywords": ["anything else", "questions"],
+        "max_score": 5,
+        "category": "call_closing_points",
+        "details_reason": "Asked if there are additional questions",
+        "matched_phrase": "Anything else I can assist with"
+      },
+      {
+        "name": "thank_customer",
+        "keywords": ["thank you", "great day"],
+        "max_score": 5,
+        "category": "call_closing_points",
+        "details_reason": "Thanked the customer",
+        "matched_phrase": "Thank you and have a great day"
+      },
+      {
+        "name": "call_closing",
+        "keywords": ["goodbye", "day ahead"],
+        "max_score": 5,
+        "category": "call_closing_points",
+        "details_reason": "Call closed professionally",
+        "matched_phrase": "goodbye"
+      },
+      {
+        "name": "call_record_clause",
+        "keywords": ["recorded", "quality"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Call record clause mentioned",
+        "matched_phrase": "This call is recorded"
+      },
+      {
+        "name": "pid_process",
+        "keywords": ["full name", "mobile number"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "PID process followed",
+        "matched_phrase": "full name and registered mobile number"
+      },
+      {
+        "name": "udcp_process",
+        "keywords": ["swear", "offensive"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Adhered to UDCP Prohibition",
+        "matched_phrase": "No offensive language",
+        "negation": true
+      },
+      {
+        "name": "call_avoidance",
+        "keywords": ["avoid", "hang up"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Call avoidance detected",
+        "matched_phrase": "avoid",
+        "violation": true
+      },
+      {
+        "name": "misleading_information",
+        "keywords": ["mislead", "false"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Misleading information detected",
+        "matched_phrase": "mislead",
+        "violation": true
+      },
+      {
+        "name": "data_manipulation",
+        "keywords": ["manipulate", "alter"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Data manipulation detected",
+        "matched_phrase": "manipulate",
+        "violation": true
+      },
+      {
+        "name": "customer_verification_accuracy",
+        "keywords": ["customer_name", "min_number"],
+        "max_score": 0,
+        "category": "service_compliance_points",
+        "details_reason": "Accurate verification provided",
+        "matched_phrase": "customer_name min_number",
+        "custom_condition": "output['customer_name'] and output['min_number'] and speaker == 'spk2' and output['customer_name'] in dialogue and output['min_number'] in dialogue"
+      }
+    ]
+  }

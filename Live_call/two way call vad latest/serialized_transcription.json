@@ -1,0 +1,52 @@
+{
+  "serializedTranscription": [
+    {
+      "dialogue": "Hi, how are you doing?",
+      "speaker": "chA",
+      "startTime": 0.0,
+      "endTime": 1.0
+    },
+    {
+      "dialogue": "I'm gonna cover you.",
+      "speaker": "chB",
+      "startTime": 3.4,
+      "endTime": 4.4
+    },
+    {
+      "dialogue": "I'm good at what is it today",
+      "speaker": "chA",
+      "startTime": 3.7,
+      "endTime": 7.1
+    },
+    {
+      "dialogue": "Today is second September 2025.",
+      "speaker": "chB",
+      "startTime": 8.2,
+      "endTime": 11.6
+    },
+    {
+      "dialogue": "correct me if I'm wrong loss It is of your phone number is",
+      "speaker": "chA",
+      "startTime": 14.6,
+      "endTime": 17.9
+    },
+    {
+      "dialogue": "None. it's three double it",
+      "speaker": "chB",
+      "startTime": 20.2,
+      "endTime": 22.4
+    },
+    {
+      "dialogue": "Okay, fine. noted. Thank you Ashutosh.",
+      "speaker": "chA",
+      "startTime": 22.9,
+      "endTime": 26.3
+    },
+    {
+      "dialogue": "Okay, welcome.",
+      "speaker": "chB",
+      "startTime": 26.2,
+      "endTime": 27.2
+    }
+  ]
+}

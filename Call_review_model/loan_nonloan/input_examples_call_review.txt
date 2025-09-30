@@ -1,0 +1,316 @@
+Non-loan(DIDNT AVAIL LOAN)
+[
+    {
+        "dialogue": "Hello, this is Mark from Horizon Bank. This call is recorded for quality assurance.",
+        "speaker": "spk1",
+        "startTime": 0.30,
+        "endTime": 3.80
+    },
+    {
+        "dialogue": "Hi, what’s this about?",
+        "speaker": "spk2",
+        "startTime": 4.10,
+        "endTime": 5.40
+    },
+    {
+        "dialogue": "We’re calling about a loan under your name. Can you verify your details?",
+        "speaker": "spk1",
+        "startTime": 6.00,
+        "endTime": 8.20
+    },
+    {
+        "dialogue": "I’m Rajesh Kumar, but I never took any loan! This must be a mistake or fraud.",
+        "speaker": "spk2",
+        "startTime": 8.70,
+        "endTime": 11.30
+    },
+    {
+        "dialogue": "I’m sorry to hear that. Can you provide more details to investigate?",
+        "speaker": "spk1",
+        "startTime": 11.80,
+        "endTime": 13.50
+    },
+    {
+        "dialogue": "Yes, I didn’t sign for this. Please look into it; I’m very upset about this.",
+        "speaker": "spk2",
+        "startTime": 14.00,
+        "endTime": 16.20
+    },
+    {
+        "dialogue": "We’ll escalate this for a thorough review. Thank you for your patience.",
+        "speaker": "spk1",
+        "startTime": 16.70,
+        "endTime": 19.00
+    }
+]
+
+LOAN call(PAYMENT DISCUSSION)
+[
+    {
+        "dialogue": "Hello, this is Sarah from Unity Bank. This call is recorded for quality assurance.",
+        "speaker": "spk1",
+        "startTime": 0.20,
+        "endTime": 3.70
+    },
+    {
+        "dialogue": "Hi, I need to check my loan status.",
+        "speaker": "spk2",
+        "startTime": 4.00,
+        "endTime": 5.50
+    },
+    {
+        "dialogue": "Sure, please provide your account number.",
+        "speaker": "spk1",
+        "startTime": 6.10,
+        "endTime": 7.80
+    },
+    {
+        "dialogue": "It’s 789123456. I want to pay my installment today.",
+        "speaker": "spk2",
+        "startTime": 8.20,
+        "endTime": 10.30
+    },
+    {
+        "dialogue": "Great, your balance is ₹5,000. Let’s process the payment.",
+        "speaker": "spk1",
+        "startTime": 10.80,
+        "endTime": 12.50
+    },
+    {
+        "dialogue": "Perfect, use my credit card for this.",
+        "speaker": "spk2",
+        "startTime": 13.00,
+        "endTime": 14.20
+    },
+    {
+        "dialogue": "Done. You’re up to date. Thank you!",
+        "speaker": "spk1",
+        "startTime": 14.70,
+        "endTime": 16.30
+    }
+]
+
+NON LOAN call(UNAWARE)
+[
+    {
+        "dialogue": "Hello, this is Tom from Apex Bank. This call is recorded for quality assurance.",
+        "speaker": "spk1",
+        "startTime": 0.30,
+        "endTime": 3.90
+    },
+    {
+        "dialogue": "Hi, what’s this regarding?",
+        "speaker": "spk2",
+        "startTime": 4.20,
+        "endTime": 5.70
+    },
+    {
+        "dialogue": "We’re contacting you about a loan repayment.",
+        "speaker": "spk1",
+        "startTime": 6.10,
+        "endTime": 7.80
+    },
+    {
+        "dialogue": "I’m confused, I never applied for any loan. This must be a mistake.",
+        "speaker": "spk2",
+        "startTime": 8.30,
+        "endTime": 10.50
+    },
+    {
+        "dialogue": "I apologize. Let’s verify your details to investigate.",
+        "speaker": "spk1",
+        "startTime": 11.00,
+        "endTime": 12.70
+    },
+    {
+        "dialogue": "Please do, I’m unaware of this completely.",
+        "speaker": "spk2",
+        "startTime": 13.20,
+        "endTime": 14.80
+    }
+]
+
+NON LOAN CALL(COMPLAINT)
+
+[
+    {
+        "dialogue": "Hello, this is Lisa from Nova Bank. This call is recorded for quality assurance.",
+        "speaker": "spk1",
+        "startTime": 0.25,
+        "endTime": 3.75
+    },
+    {
+        "dialogue": "Hi, I have a serious issue to report.",
+        "speaker": "spk2",
+        "startTime": 4.10,
+        "endTime": 5.60
+    },
+    {
+        "dialogue": "Please tell me more. What’s the problem?",
+        "speaker": "spk1",
+        "startTime": 6.00,
+        "endTime": 7.50
+    },
+    {
+        "dialogue": "I received a bill for a loan I didn’t agree to. This is a complaint!",
+        "speaker": "spk2",
+        "startTime": 8.00,
+        "endTime": 10.20
+    },
+    {
+        "dialogue": "I’m sorry to hear that. We’ll look into it right away.",
+        "speaker": "spk1",
+        "startTime": 10.70,
+        "endTime": 12.30
+    },
+    {
+        "dialogue": "Please resolve this, I’m very upset.",
+        "speaker": "spk2",
+        "startTime": 12.80,
+        "endTime": 14.40
+    }
+]
+
+NON LOAN (FRAUD)
+[
+    {
+        "dialogue": "Hello, this is David from Zenith Bank. This call is recorded for quality assurance.",
+        "speaker": "spk1",
+        "startTime": 0.40,
+        "endTime": 4.00
+    },
+    {
+        "dialogue": "Hi, why am I being called?",
+        "speaker": "spk2",
+        "startTime": 4.50,
+        "endTime": 5.90
+    },
+    {
+        "dialogue": "We noticed a loan under your name with unusual activity.",
+        "speaker": "spk1",
+        "startTime": 6.20,
+        "endTime": 8.10
+    },
+    {
+        "dialogue": "That’s impossible! I think this is fraud. I never authorized it.",
+        "speaker": "spk2",
+        "startTime": 8.60,
+        "endTime": 10.80
+    },
+    {
+        "dialogue": "We’ll investigate this as a potential fraud case.",
+        "speaker": "spk1",
+        "startTime": 11.30,
+        "endTime": 13.00
+    }
+]
+
+LOAN(REPAYMENT)
+[
+    {
+        "dialogue": "Hello, this is Priya from Lunar Bank. This call is recorded for quality assurance.",
+        "speaker": "spk1",
+        "startTime": 0.35,
+        "endTime": 3.90
+    },
+    {
+        "dialogue": "Hi, I need help with my loan repayment.",
+        "speaker": "spk2",
+        "startTime": 4.20,
+        "endTime": 5.70
+    },
+    {
+        "dialogue": "Sure, your current balance is ₹10,000. Would you like a plan?",
+        "speaker": "spk1",
+        "startTime": 6.10,
+        "endTime": 8.30
+    },
+    {
+        "dialogue": "Yes, can I pay ₹2,000 monthly?",
+        "speaker": "spk2",
+        "startTime": 8.80,
+        "endTime": 10.20
+    },
+    {
+        "dialogue": "That works. We’ll set up the repayment plan now.",
+        "speaker": "spk1",
+        "startTime": 10.70,
+        "endTime": 12.40
+    },
+    {
+        "dialogue": "Thank you, that’s perfect.",
+        "speaker": "spk2",
+        "startTime": 13.00,
+        "endTime": 14.10
+    }
+]
+
+NON LOAN(UNAWARE)
+[
+    {
+        "dialogue": "Hello, this is Jane from River Bank. This call is recorded for quality assurance.",
+        "speaker": "spk1",
+        "startTime": 0.20,
+        "endTime": 3.70
+    },
+    {
+        "dialogue": "Hi, I got a notice about some account issue.",
+        "speaker": "spk2",
+        "startTime": 4.00,
+        "endTime": 5.50
+    },
+    {
+        "dialogue": "Let me check. It seems related to a financial product.",
+        "speaker": "spk1",
+        "startTime": 6.10,
+        "endTime": 7.80
+    },
+    {
+        "dialogue": "I don’t recall agreeing to anything like that.",
+        "speaker": "spk2",
+        "startTime": 8.20,
+        "endTime": 9.70
+    },
+    {
+        "dialogue": "We’ll review it. Can you confirm your details?",
+        "speaker": "spk1",
+        "startTime": 10.00,
+        "endTime": 11.50
+    }
+]
+
+
+NON LOAN(DIDnt avail)
+[
+    {
+        "dialogue": "Hello, this is Mike from Oak Bank. This call is recorded for quality assurance.",
+        "speaker": "spk1",
+        "startTime": 0.30,
+        "endTime": 3.90
+    },
+    {
+        "dialogue": "Hi, I received a bill I didn’t expect.",
+        "speaker": "spk2",
+        "startTime": 4.20,
+        "endTime": 5.70
+    },
+    {
+        "dialogue": "It’s for a loan balance of ₹3,000. Can we discuss payment?",
+        "speaker": "spk1",
+        "startTime": 6.10,
+        "endTime": 8.30
+    },
+    {
+        "dialogue": "Wait, I never signed up for this. This feels wrong.",
+        "speaker": "spk2",
+        "startTime": 8.80,
+        "endTime": 10.40
+    },
+    {
+        "dialogue": "Let’s pause and investigate this further.",
+        "speaker": "spk1",
+        "startTime": 11.00,
+        "endTime": 12.70
+    }
+]
+

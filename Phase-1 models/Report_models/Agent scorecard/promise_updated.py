@@ -35,18 +35,57 @@ candidate_labels = [
     "Denial of Payment",
 ]
 
+# Keyword-based pre-check rules
+keyword_rules = {
+    "Complete Settlement": [
+        "i will pay full amount",
+        "i'll pay the entire",
+        "pay the full balance",
+        "settle the loan completely",
+        "pay the whole amount"
+    ],
+    "Partial Settlement": [
+        "i will pay half",
+        "i can pay some",
+        "pay a portion",
+        "partial payment",
+        "set up a payment plan"
+    ],
+    "Denial of Payment": [
+        "i will not pay",
+        "i'm not paying",
+        "i dispute the",
+        "i refuse to pay",
+        "not going to pay"
+    ],
+    "Broken Promise": [
+        "i won't be able to pay",
+        "i can't pay right now",
+        "i missed the payment",
+        "i couldn't pay",
+        "sorry i didn't pay"
+    ]
+}
+
 def classify_intent(text: str) -> tuple:
+    # Pre-check for keywords
+    text_lower = text.lower()
+    for intent, keywords in keyword_rules.items():
+        for keyword in keywords:
+            if keyword in text_lower:
+                # Return the intent with a default scores dictionary
+                scores_dict = {label: 1.0 if label == intent else 0.0 for label in candidate_labels}
+                print(f"Pre-check matched keyword '{keyword}' for intent: {intent}")
+                return intent, scores_dict
+
+    # If no keywords match, use the model
     result = zero_shot_classifier(text, candidate_labels, multi_label=False)
-    # Debug: Print raw pipeline output
     print(f"Raw pipeline result: {result}")
-    # Map scores to result['labels'] to match pipeline order
     scores = result['scores']
     labels = result['labels']
     label_score_pairs = list(zip(labels, scores))
-    # Sort by score in descending order
     sorted_pairs = sorted(label_score_pairs, key=lambda x: x[1], reverse=True)
     top_label = sorted_pairs[0][0]
-    # Create scores dictionary using result['labels'] order
     scores_dict = dict(zip(labels, scores))
     return top_label, scores_dict
 
